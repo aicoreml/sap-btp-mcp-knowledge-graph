@@ -1,0 +1,2688 @@
+[
+  {
+    "id": "U0001",
+    "email": "rosa.santos@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Santos",
+    "title": "VP",
+    "departmentId": "D008",
+    "managerId": null,
+    "hireDate": "2022-10-14",
+    "location": "Zurich",
+    "active": false,
+    "skills": [
+      "RFC",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0002",
+    "email": "lucas.schmidt@contoso.com",
+    "firstName": "Lucas",
+    "lastName": "Schmidt",
+    "title": "VP",
+    "departmentId": "D004",
+    "managerId": null,
+    "hireDate": "2017-01-11",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Compliance",
+      "Review",
+      "Automation",
+      "Data",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "U0003",
+    "email": "kai.jensen@northwind.com",
+    "firstName": "Kai",
+    "lastName": "Jensen",
+    "title": "VP",
+    "departmentId": "D003",
+    "managerId": null,
+    "hireDate": "2018-10-05",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "SAP",
+      "Procurement",
+      "Approved",
+      "Integration",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0004",
+    "email": "aisha.schneider@contoso.com",
+    "firstName": "Aisha",
+    "lastName": "Schneider",
+    "title": "VP",
+    "departmentId": "D003",
+    "managerId": null,
+    "hireDate": "2016-07-19",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "GDPR",
+      "Reporting",
+      "S/4HANA",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0005",
+    "email": "nadia.santos@contoso.com",
+    "firstName": "Nadia",
+    "lastName": "Santos",
+    "title": "VP",
+    "departmentId": "D002",
+    "managerId": null,
+    "hireDate": "2018-01-10",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Integration",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "U0006",
+    "email": "oliver.schmidt@northwind.com",
+    "firstName": "Oliver",
+    "lastName": "Schmidt",
+    "title": "Director",
+    "departmentId": "D003",
+    "managerId": null,
+    "hireDate": "2017-11-01",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Migration",
+      "Finance",
+      "Automation"
+    ]
+  },
+  {
+    "id": "U0007",
+    "email": "sofia.kim@contoso.com",
+    "firstName": "Sofia",
+    "lastName": "Kim",
+    "title": "Director",
+    "departmentId": "D001",
+    "managerId": null,
+    "hireDate": "2019-03-18",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Security",
+      "Automation",
+      "Finance",
+      "Migration"
+    ]
+  },
+  {
+    "id": "U0008",
+    "email": "ethan.schneider@contoso.com",
+    "firstName": "Ethan",
+    "lastName": "Schneider",
+    "title": "Director",
+    "departmentId": "D001",
+    "managerId": null,
+    "hireDate": "2019-01-02",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Integration",
+      "Edge",
+      "Approved",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "U0009",
+    "email": "priya.weber@northwind.com",
+    "firstName": "Priya",
+    "lastName": "Weber",
+    "title": "Director",
+    "departmentId": "D003",
+    "managerId": null,
+    "hireDate": "2024-05-21",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Integration",
+      "S/4HANA",
+      "RFC",
+      "GDPR",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0010",
+    "email": "leila.kim@contoso.com",
+    "firstName": "Leila",
+    "lastName": "Kim",
+    "title": "Director",
+    "departmentId": "D006",
+    "managerId": null,
+    "hireDate": "2022-11-02",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Review",
+      "Production",
+      "Finance"
+    ]
+  },
+  {
+    "id": "U0011",
+    "email": "yuki.schmidt@contoso.com",
+    "firstName": "Yuki",
+    "lastName": "Schmidt",
+    "title": "Director",
+    "departmentId": "D001",
+    "managerId": null,
+    "hireDate": "2025-02-17",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Testing",
+      "Finance",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0012",
+    "email": "leila.park@northwind.com",
+    "firstName": "Leila",
+    "lastName": "Park",
+    "title": "Director",
+    "departmentId": "D003",
+    "managerId": null,
+    "hireDate": "2019-05-09",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Approved",
+      "Finance",
+      "Cloud",
+      "Pilot",
+      "Sustainability",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0013",
+    "email": "zara.weber@contoso.com",
+    "firstName": "Zara",
+    "lastName": "Weber",
+    "title": "Director",
+    "departmentId": "D008",
+    "managerId": null,
+    "hireDate": "2017-04-03",
+    "location": "Zurich",
+    "active": false,
+    "skills": [
+      "SAP",
+      "Data",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0014",
+    "email": "liam.kim@northwind.com",
+    "firstName": "Liam",
+    "lastName": "Kim",
+    "title": "Director",
+    "departmentId": "D006",
+    "managerId": null,
+    "hireDate": "2021-04-09",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Data",
+      "RFC",
+      "Staging",
+      "Onboarding",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0015",
+    "email": "leila.müller@contoso.com",
+    "firstName": "Leila",
+    "lastName": "Müller",
+    "title": "Director",
+    "departmentId": "D008",
+    "managerId": null,
+    "hireDate": "2016-08-25",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Reporting",
+      "Review",
+      "Sustainability",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "U0016",
+    "email": "noah.schneider@contoso.com",
+    "firstName": "Noah",
+    "lastName": "Schneider",
+    "title": "Senior Manager",
+    "departmentId": "D008",
+    "managerId": null,
+    "hireDate": "2024-11-15",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Engineering",
+      "CRM",
+      "Draft",
+      "Compliance",
+      "Migration"
+    ]
+  },
+  {
+    "id": "U0017",
+    "email": "james.schmidt@contoso.com",
+    "firstName": "James",
+    "lastName": "Schmidt",
+    "title": "Senior Manager",
+    "departmentId": "D002",
+    "managerId": null,
+    "hireDate": "2016-12-13",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Reporting",
+      "Analytics",
+      "ML"
+    ]
+  },
+  {
+    "id": "U0018",
+    "email": "emma.jensen@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Jensen",
+    "title": "Senior Manager",
+    "departmentId": "D006",
+    "managerId": null,
+    "hireDate": "2017-01-18",
+    "location": "Düsseldorf",
+    "active": false,
+    "skills": [
+      "Integration",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0019",
+    "email": "ava.tanaka@contoso.com",
+    "firstName": "Ava",
+    "lastName": "Tanaka",
+    "title": "Senior Manager",
+    "departmentId": "D008",
+    "managerId": null,
+    "hireDate": "2018-06-19",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Analytics",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0020",
+    "email": "emma.jensen@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Jensen",
+    "title": "Senior Manager",
+    "departmentId": "D007",
+    "managerId": null,
+    "hireDate": "2019-10-23",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Compliance",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0021",
+    "email": "emma.singh@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Singh",
+    "title": "Senior Manager",
+    "departmentId": "D005",
+    "managerId": "U0015",
+    "hireDate": "2017-08-27",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Approved",
+      "Production",
+      "SAP",
+      "Security",
+      "UX",
+      "API"
+    ]
+  },
+  {
+    "id": "U0022",
+    "email": "amir.silva@northwind.com",
+    "firstName": "Amir",
+    "lastName": "Silva",
+    "title": "Senior Manager",
+    "departmentId": "D008",
+    "managerId": "U0010",
+    "hireDate": "2019-06-22",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "HR",
+      "IoT",
+      "Testing",
+      "Quality",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "U0023",
+    "email": "chen.ali@northwind.com",
+    "firstName": "Chen",
+    "lastName": "Ali",
+    "title": "Senior Manager",
+    "departmentId": "D005",
+    "managerId": "U0015",
+    "hireDate": "2019-02-02",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Staging",
+      "Sustainability",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0024",
+    "email": "ava.rossi@contoso.com",
+    "firstName": "Ava",
+    "lastName": "Rossi",
+    "title": "Senior Manager",
+    "departmentId": "D005",
+    "managerId": "U0018",
+    "hireDate": "2020-06-15",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0025",
+    "email": "liam.singh@contoso.com",
+    "firstName": "Liam",
+    "lastName": "Singh",
+    "title": "Senior Manager",
+    "departmentId": "D002",
+    "managerId": "U0004",
+    "hireDate": "2025-09-11",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "UX",
+      "GDPR",
+      "Governance"
+    ]
+  },
+  {
+    "id": "U0026",
+    "email": "diego.santoro@northwind.com",
+    "firstName": "Diego",
+    "lastName": "Santoro",
+    "title": "Senior Manager",
+    "departmentId": "D004",
+    "managerId": "U0020",
+    "hireDate": "2021-07-26",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "HR",
+      "Data",
+      "IoT",
+      "Automation",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0027",
+    "email": "zara.rossi@contoso.com",
+    "firstName": "Zara",
+    "lastName": "Rossi",
+    "title": "Senior Manager",
+    "departmentId": "D002",
+    "managerId": "U0025",
+    "hireDate": "2021-04-01",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "RFC",
+      "Onboarding",
+      "Integration"
+    ]
+  },
+  {
+    "id": "U0028",
+    "email": "ethan.ali@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Ali",
+    "title": "Senior Manager",
+    "departmentId": "D006",
+    "managerId": "U0002",
+    "hireDate": "2022-02-10",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Governance",
+      "API",
+      "Testing",
+      "Draft",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "U0029",
+    "email": "fatima.santos@northwind.com",
+    "firstName": "Fatima",
+    "lastName": "Santos",
+    "title": "Senior Manager",
+    "departmentId": "D002",
+    "managerId": "U0011",
+    "hireDate": "2025-01-21",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "CRM",
+      "Data",
+      "API",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0030",
+    "email": "ravi.schmidt@northwind.com",
+    "firstName": "Ravi",
+    "lastName": "Schmidt",
+    "title": "Senior Manager",
+    "departmentId": "D005",
+    "managerId": "U0028",
+    "hireDate": "2024-05-10",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Approved",
+      "API",
+      "Sustainability",
+      "Cloud",
+      "Pilot",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0031",
+    "email": "emma.schmidt@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Schmidt",
+    "title": "Senior Manager",
+    "departmentId": "D003",
+    "managerId": "U0005",
+    "hireDate": "2017-01-16",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "RFC",
+      "BI",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "U0032",
+    "email": "ravi.müller@northwind.com",
+    "firstName": "Ravi",
+    "lastName": "Müller",
+    "title": "Senior Manager",
+    "departmentId": "D006",
+    "managerId": "U0011",
+    "hireDate": "2020-05-25",
+    "location": "Düsseldorf",
+    "active": false,
+    "skills": [
+      "Analytics",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0033",
+    "email": "luca.jensen@contoso.com",
+    "firstName": "Luca",
+    "lastName": "Jensen",
+    "title": "Senior Manager",
+    "departmentId": "D003",
+    "managerId": "U0021",
+    "hireDate": "2021-06-10",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Data",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0034",
+    "email": "priya.rossi@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Rossi",
+    "title": "Senior Manager",
+    "departmentId": "D004",
+    "managerId": "U0009",
+    "hireDate": "2025-09-27",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Staging",
+      "CRM",
+      "Review",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0035",
+    "email": "hana.ali@contoso.com",
+    "firstName": "Hana",
+    "lastName": "Ali",
+    "title": "Senior Manager",
+    "departmentId": "D007",
+    "managerId": "U0015",
+    "hireDate": "2018-07-02",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Staging",
+      "ML"
+    ]
+  },
+  {
+    "id": "U0036",
+    "email": "sofia.müller@contoso.com",
+    "firstName": "Sofia",
+    "lastName": "Müller",
+    "title": "Senior Manager",
+    "departmentId": "D004",
+    "managerId": "U0007",
+    "hireDate": "2025-10-20",
+    "location": "Hamburg",
+    "active": false,
+    "skills": [
+      "RFC",
+      "Automation",
+      "Review",
+      "Data",
+      "Procurement",
+      "Approved"
+    ]
+  },
+  {
+    "id": "U0037",
+    "email": "leila.kim@northwind.com",
+    "firstName": "Leila",
+    "lastName": "Kim",
+    "title": "Senior Manager",
+    "departmentId": "D003",
+    "managerId": "U0036",
+    "hireDate": "2025-05-20",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "BI",
+      "Quality",
+      "CRM",
+      "Approved"
+    ]
+  },
+  {
+    "id": "U0038",
+    "email": "raj.dubois@northwind.com",
+    "firstName": "Raj",
+    "lastName": "Dubois",
+    "title": "Senior Manager",
+    "departmentId": "D003",
+    "managerId": "U0022",
+    "hireDate": "2018-04-06",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Migration",
+      "SAP",
+      "S/4HANA",
+      "Sustainability",
+      "Approved"
+    ]
+  },
+  {
+    "id": "U0039",
+    "email": "raj.tanaka@contoso.com",
+    "firstName": "Raj",
+    "lastName": "Tanaka",
+    "title": "Senior Manager",
+    "departmentId": "D007",
+    "managerId": "U0032",
+    "hireDate": "2024-04-09",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Production",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "U0040",
+    "email": "sofia.ali@contoso.com",
+    "firstName": "Sofia",
+    "lastName": "Ali",
+    "title": "Senior Manager",
+    "departmentId": "D003",
+    "managerId": "U0022",
+    "hireDate": "2025-02-19",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Integration",
+      "Finance",
+      "GDPR",
+      "UX",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0041",
+    "email": "ravi.rossi@northwind.com",
+    "firstName": "Ravi",
+    "lastName": "Rossi",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0023",
+    "hireDate": "2023-12-11",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Review",
+      "SAP",
+      "Integration",
+      "Security",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0042",
+    "email": "ava.müller@contoso.com",
+    "firstName": "Ava",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D004",
+    "managerId": "U0020",
+    "hireDate": "2016-05-11",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Approved",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "U0043",
+    "email": "chen.singh@contoso.com",
+    "firstName": "Chen",
+    "lastName": "Singh",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0027",
+    "hireDate": "2024-06-17",
+    "location": "Munich",
+    "active": false,
+    "skills": [
+      "Production",
+      "HR",
+      "Draft",
+      "Automation",
+      "Security",
+      "Integration"
+    ]
+  },
+  {
+    "id": "U0044",
+    "email": "ethan.schmidt@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Schmidt",
+    "title": "Manager",
+    "departmentId": "D006",
+    "managerId": "U0014",
+    "hireDate": "2016-08-27",
+    "location": "Düsseldorf",
+    "active": false,
+    "skills": [
+      "Sustainability",
+      "GDPR",
+      "Security",
+      "Onboarding",
+      "RFC",
+      "Production"
+    ]
+  },
+  {
+    "id": "U0045",
+    "email": "leila.rossi@contoso.com",
+    "firstName": "Leila",
+    "lastName": "Rossi",
+    "title": "Manager",
+    "departmentId": "D008",
+    "managerId": "U0010",
+    "hireDate": "2017-10-09",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "Automation"
+    ]
+  },
+  {
+    "id": "U0046",
+    "email": "zara.rossi@contoso.com",
+    "firstName": "Zara",
+    "lastName": "Rossi",
+    "title": "Manager",
+    "departmentId": "D007",
+    "managerId": "U0014",
+    "hireDate": "2018-01-22",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "BI",
+      "Pilot",
+      "Edge",
+      "Procurement",
+      "GDPR",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0047",
+    "email": "ethan.müller@contoso.com",
+    "firstName": "Ethan",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D008",
+    "managerId": "U0002",
+    "hireDate": "2016-07-16",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Integration",
+      "Staging",
+      "SAP",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "U0048",
+    "email": "ravi.müller@contoso.com",
+    "firstName": "Ravi",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D006",
+    "managerId": "U0002",
+    "hireDate": "2022-10-15",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "Security",
+      "API",
+      "CRM",
+      "HR"
+    ]
+  },
+  {
+    "id": "U0049",
+    "email": "nadia.tanaka@northwind.com",
+    "firstName": "Nadia",
+    "lastName": "Tanaka",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0025",
+    "hireDate": "2020-02-06",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "Pilot",
+      "Reporting",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0050",
+    "email": "lucas.ali@northwind.com",
+    "firstName": "Lucas",
+    "lastName": "Ali",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0010",
+    "hireDate": "2018-10-13",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "API"
+    ]
+  },
+  {
+    "id": "U0051",
+    "email": "priya.dubois@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Dubois",
+    "title": "Manager",
+    "departmentId": "D005",
+    "managerId": "U0017",
+    "hireDate": "2025-12-16",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Compliance",
+      "S/4HANA",
+      "RFC",
+      "Pilot",
+      "Automation"
+    ]
+  },
+  {
+    "id": "U0052",
+    "email": "ethan.singh@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Singh",
+    "title": "Manager",
+    "departmentId": "D004",
+    "managerId": "U0027",
+    "hireDate": "2021-06-16",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "U0053",
+    "email": "ethan.weber@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Weber",
+    "title": "Manager",
+    "departmentId": "D005",
+    "managerId": "U0020",
+    "hireDate": "2016-01-16",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Staging",
+      "Analytics",
+      "Compliance",
+      "HR"
+    ]
+  },
+  {
+    "id": "U0054",
+    "email": "luca.cohen@contoso.com",
+    "firstName": "Luca",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0047",
+    "hireDate": "2016-09-28",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Automation",
+      "Compliance",
+      "Procurement",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0055",
+    "email": "ethan.cohen@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D008",
+    "managerId": "U0026",
+    "hireDate": "2024-08-25",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Automation",
+      "Reporting",
+      "Pilot",
+      "GDPR",
+      "Cloud",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0056",
+    "email": "hana.müller@northwind.com",
+    "firstName": "Hana",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0049",
+    "hireDate": "2017-12-21",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "CRM",
+      "Security"
+    ]
+  },
+  {
+    "id": "U0057",
+    "email": "mia.jensen@northwind.com",
+    "firstName": "Mia",
+    "lastName": "Jensen",
+    "title": "Manager",
+    "departmentId": "D004",
+    "managerId": "U0047",
+    "hireDate": "2024-11-10",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "Testing",
+      "API"
+    ]
+  },
+  {
+    "id": "U0058",
+    "email": "zara.schneider@northwind.com",
+    "firstName": "Zara",
+    "lastName": "Schneider",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0049",
+    "hireDate": "2019-11-15",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Edge",
+      "Sustainability",
+      "S/4HANA",
+      "Migration",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "U0059",
+    "email": "noah.singh@northwind.com",
+    "firstName": "Noah",
+    "lastName": "Singh",
+    "title": "Manager",
+    "departmentId": "D008",
+    "managerId": "U0020",
+    "hireDate": "2024-09-12",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Automation",
+      "GDPR",
+      "Pilot",
+      "SAP",
+      "Engineering",
+      "Governance"
+    ]
+  },
+  {
+    "id": "U0060",
+    "email": "mia.müller@northwind.com",
+    "firstName": "Mia",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D006",
+    "managerId": "U0029",
+    "hireDate": "2020-01-28",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "UX",
+      "Cloud",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0061",
+    "email": "james.müller@contoso.com",
+    "firstName": "James",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D005",
+    "managerId": "U0028",
+    "hireDate": "2020-03-04",
+    "location": "Stuttgart",
+    "active": false,
+    "skills": [
+      "Review",
+      "Finance",
+      "IoT",
+      "Migration"
+    ]
+  },
+  {
+    "id": "U0062",
+    "email": "aisha.cohen@northwind.com",
+    "firstName": "Aisha",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0038",
+    "hireDate": "2019-02-01",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "S/4HANA",
+      "Governance",
+      "Quality"
+    ]
+  },
+  {
+    "id": "U0063",
+    "email": "mason.kim@northwind.com",
+    "firstName": "Mason",
+    "lastName": "Kim",
+    "title": "Manager",
+    "departmentId": "D005",
+    "managerId": "U0053",
+    "hireDate": "2023-09-25",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "UX",
+      "GDPR",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0064",
+    "email": "emma.larsen@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Larsen",
+    "title": "Manager",
+    "departmentId": "D004",
+    "managerId": "U0017",
+    "hireDate": "2018-08-19",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Approved",
+      "GDPR",
+      "S/4HANA",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "U0065",
+    "email": "sofia.schneider@northwind.com",
+    "firstName": "Sofia",
+    "lastName": "Schneider",
+    "title": "Manager",
+    "departmentId": "D008",
+    "managerId": "U0003",
+    "hireDate": "2025-02-21",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "Production",
+      "Procurement",
+      "CRM",
+      "API"
+    ]
+  },
+  {
+    "id": "U0066",
+    "email": "kai.cohen@northwind.com",
+    "firstName": "Kai",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D006",
+    "managerId": "U0044",
+    "hireDate": "2018-09-15",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Draft",
+      "Engineering",
+      "Staging",
+      "HR",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "U0067",
+    "email": "mason.larsen@northwind.com",
+    "firstName": "Mason",
+    "lastName": "Larsen",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0001",
+    "hireDate": "2025-10-16",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0068",
+    "email": "james.nguyen@contoso.com",
+    "firstName": "James",
+    "lastName": "Nguyen",
+    "title": "Manager",
+    "departmentId": "D006",
+    "managerId": "U0041",
+    "hireDate": "2022-07-27",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "UX",
+      "ML",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0069",
+    "email": "nadia.park@contoso.com",
+    "firstName": "Nadia",
+    "lastName": "Park",
+    "title": "Manager",
+    "departmentId": "D001",
+    "managerId": "U0058",
+    "hireDate": "2024-03-05",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "HR",
+      "Production",
+      "CRM",
+      "Security",
+      "Integration"
+    ]
+  },
+  {
+    "id": "U0070",
+    "email": "aisha.singh@contoso.com",
+    "firstName": "Aisha",
+    "lastName": "Singh",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0061",
+    "hireDate": "2024-07-17",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Onboarding",
+      "Edge",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0071",
+    "email": "tom.larsen@contoso.com",
+    "firstName": "Tom",
+    "lastName": "Larsen",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0010",
+    "hireDate": "2021-08-10",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "S/4HANA",
+      "Finance",
+      "Staging",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0072",
+    "email": "oliver.müller@contoso.com",
+    "firstName": "Oliver",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D007",
+    "managerId": "U0069",
+    "hireDate": "2025-10-01",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Compliance",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0073",
+    "email": "maria.park@contoso.com",
+    "firstName": "Maria",
+    "lastName": "Park",
+    "title": "Manager",
+    "departmentId": "D001",
+    "managerId": "U0007",
+    "hireDate": "2018-04-26",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "SAP",
+      "Quality",
+      "GDPR",
+      "Staging",
+      "S/4HANA",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0074",
+    "email": "maria.cohen@contoso.com",
+    "firstName": "Maria",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0033",
+    "hireDate": "2017-07-07",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "HR",
+      "IoT",
+      "BI"
+    ]
+  },
+  {
+    "id": "U0075",
+    "email": "lucas.silva@contoso.com",
+    "firstName": "Lucas",
+    "lastName": "Silva",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0038",
+    "hireDate": "2020-01-06",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Mobile",
+      "Finance"
+    ]
+  },
+  {
+    "id": "U0076",
+    "email": "raj.dubois@northwind.com",
+    "firstName": "Raj",
+    "lastName": "Dubois",
+    "title": "Manager",
+    "departmentId": "D001",
+    "managerId": "U0043",
+    "hireDate": "2019-05-12",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Approved",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0077",
+    "email": "noah.weber@northwind.com",
+    "firstName": "Noah",
+    "lastName": "Weber",
+    "title": "Manager",
+    "departmentId": "D003",
+    "managerId": "U0067",
+    "hireDate": "2019-05-10",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Migration",
+      "Engineering",
+      "RFC",
+      "Approved",
+      "Analytics",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0078",
+    "email": "fatima.weber@northwind.com",
+    "firstName": "Fatima",
+    "lastName": "Weber",
+    "title": "Manager",
+    "departmentId": "D001",
+    "managerId": "U0036",
+    "hireDate": "2021-04-04",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Data",
+      "Finance",
+      "API",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0079",
+    "email": "sofia.cohen@northwind.com",
+    "firstName": "Sofia",
+    "lastName": "Cohen",
+    "title": "Manager",
+    "departmentId": "D002",
+    "managerId": "U0043",
+    "hireDate": "2023-06-15",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "S/4HANA",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0080",
+    "email": "rosa.müller@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Müller",
+    "title": "Manager",
+    "departmentId": "D004",
+    "managerId": "U0026",
+    "hireDate": "2023-01-18",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "API",
+      "Quality",
+      "Production",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0081",
+    "email": "liam.silva@northwind.com",
+    "firstName": "Liam",
+    "lastName": "Silva",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0017",
+    "hireDate": "2019-11-14",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "Sustainability",
+      "Reporting",
+      "Mobile",
+      "Migration"
+    ]
+  },
+  {
+    "id": "U0082",
+    "email": "maria.schmidt@contoso.com",
+    "firstName": "Maria",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D001",
+    "managerId": "U0078",
+    "hireDate": "2024-11-05",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "Production",
+      "Cloud",
+      "Sustainability",
+      "Security",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0083",
+    "email": "nadia.larsen@northwind.com",
+    "firstName": "Nadia",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D006",
+    "managerId": "U0082",
+    "hireDate": "2021-01-02",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "S/4HANA",
+      "UX",
+      "Onboarding",
+      "Edge",
+      "Analytics",
+      "Security"
+    ]
+  },
+  {
+    "id": "U0084",
+    "email": "ravi.tanaka@northwind.com",
+    "firstName": "Ravi",
+    "lastName": "Tanaka",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0051",
+    "hireDate": "2025-11-25",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "API",
+      "Integration",
+      "Onboarding",
+      "HR"
+    ]
+  },
+  {
+    "id": "U0085",
+    "email": "priya.rossi@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Rossi",
+    "title": "Specialist",
+    "departmentId": "D005",
+    "managerId": "U0073",
+    "hireDate": "2025-08-07",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Sustainability",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0086",
+    "email": "james.larsen@contoso.com",
+    "firstName": "James",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0037",
+    "hireDate": "2021-04-24",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Automation",
+      "Engineering",
+      "Analytics",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0087",
+    "email": "hana.larsen@contoso.com",
+    "firstName": "Hana",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D003",
+    "managerId": "U0018",
+    "hireDate": "2023-10-19",
+    "location": "Munich",
+    "active": false,
+    "skills": [
+      "Edge",
+      "Migration"
+    ]
+  },
+  {
+    "id": "U0088",
+    "email": "priya.müller@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Müller",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0065",
+    "hireDate": "2020-09-22",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Finance",
+      "Governance",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "U0089",
+    "email": "hana.silva@northwind.com",
+    "firstName": "Hana",
+    "lastName": "Silva",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0061",
+    "hireDate": "2019-03-18",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Analytics",
+      "GDPR",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0090",
+    "email": "ravi.rossi@contoso.com",
+    "firstName": "Ravi",
+    "lastName": "Rossi",
+    "title": "Specialist",
+    "departmentId": "D007",
+    "managerId": "U0061",
+    "hireDate": "2021-02-27",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "API",
+      "SAP",
+      "Production",
+      "Finance"
+    ]
+  },
+  {
+    "id": "U0091",
+    "email": "maria.weber@contoso.com",
+    "firstName": "Maria",
+    "lastName": "Weber",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0082",
+    "hireDate": "2025-07-11",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "Governance",
+      "API"
+    ]
+  },
+  {
+    "id": "U0092",
+    "email": "aisha.larsen@contoso.com",
+    "firstName": "Aisha",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0054",
+    "hireDate": "2018-06-19",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "IoT",
+      "Compliance",
+      "Finance",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0093",
+    "email": "tom.larsen@northwind.com",
+    "firstName": "Tom",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D006",
+    "managerId": "U0007",
+    "hireDate": "2020-02-08",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Approved",
+      "Security",
+      "RFC",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0094",
+    "email": "liam.jensen@contoso.com",
+    "firstName": "Liam",
+    "lastName": "Jensen",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0077",
+    "hireDate": "2016-03-25",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Integration",
+      "Testing",
+      "API",
+      "IoT",
+      "Onboarding",
+      "Production"
+    ]
+  },
+  {
+    "id": "U0095",
+    "email": "lucas.schmidt@contoso.com",
+    "firstName": "Lucas",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0055",
+    "hireDate": "2017-06-14",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Reporting",
+      "Integration"
+    ]
+  },
+  {
+    "id": "U0096",
+    "email": "james.cohen@contoso.com",
+    "firstName": "James",
+    "lastName": "Cohen",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0045",
+    "hireDate": "2021-03-27",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Sustainability",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0097",
+    "email": "rosa.nguyen@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Nguyen",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0085",
+    "hireDate": "2023-05-15",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Testing",
+      "Engineering",
+      "Sustainability",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0098",
+    "email": "finn.dubois@contoso.com",
+    "firstName": "Finn",
+    "lastName": "Dubois",
+    "title": "Specialist",
+    "departmentId": "D006",
+    "managerId": "U0074",
+    "hireDate": "2017-04-14",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Production",
+      "Finance",
+      "SAP",
+      "ML",
+      "HR",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "U0099",
+    "email": "hana.schmidt@contoso.com",
+    "firstName": "Hana",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0033",
+    "hireDate": "2024-04-27",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Edge",
+      "CRM",
+      "GDPR",
+      "Integration",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0100",
+    "email": "liam.schmidt@northwind.com",
+    "firstName": "Liam",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0051",
+    "hireDate": "2025-03-17",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "CRM",
+      "Security",
+      "Production",
+      "RFC",
+      "Mobile",
+      "IoT"
+    ]
+  },
+  {
+    "id": "U0101",
+    "email": "rosa.schmidt100@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0089",
+    "hireDate": "2020-08-27",
+    "location": "Hamburg",
+    "active": false,
+    "skills": [
+      "Analytics",
+      "Automation",
+      "HR",
+      "CRM",
+      "S/4HANA",
+      "BI"
+    ]
+  },
+  {
+    "id": "U0102",
+    "email": "james.schmidt101@northwind.com",
+    "firstName": "James",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D003",
+    "managerId": "U0046",
+    "hireDate": "2016-01-20",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "S/4HANA",
+      "UX",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0103",
+    "email": "amir.müller102@contoso.com",
+    "firstName": "Amir",
+    "lastName": "Müller",
+    "title": "Specialist",
+    "departmentId": "D007",
+    "managerId": "U0071",
+    "hireDate": "2025-06-11",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Security",
+      "Draft",
+      "Production",
+      "Automation",
+      "BI",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0104",
+    "email": "diego.santos103@contoso.com",
+    "firstName": "Diego",
+    "lastName": "Santos",
+    "title": "Specialist",
+    "departmentId": "D003",
+    "managerId": "U0027",
+    "hireDate": "2024-08-21",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Migration",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0105",
+    "email": "priya.kim104@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Kim",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0001",
+    "hireDate": "2023-11-12",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "ML",
+      "Engineering",
+      "Review",
+      "Procurement",
+      "Staging",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0106",
+    "email": "ava.müller105@northwind.com",
+    "firstName": "Ava",
+    "lastName": "Müller",
+    "title": "Specialist",
+    "departmentId": "D006",
+    "managerId": "U0002",
+    "hireDate": "2019-01-08",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Automation",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "U0107",
+    "email": "amir.silva106@northwind.com",
+    "firstName": "Amir",
+    "lastName": "Silva",
+    "title": "Specialist",
+    "departmentId": "D003",
+    "managerId": "U0014",
+    "hireDate": "2024-04-19",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "HR",
+      "Draft",
+      "Approved",
+      "Reporting",
+      "SAP",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0108",
+    "email": "zara.kim107@contoso.com",
+    "firstName": "Zara",
+    "lastName": "Kim",
+    "title": "Specialist",
+    "departmentId": "D006",
+    "managerId": "U0055",
+    "hireDate": "2022-05-11",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "IoT",
+      "Sustainability",
+      "Testing",
+      "Security",
+      "Data"
+    ]
+  },
+  {
+    "id": "U0109",
+    "email": "sofia.tanaka108@northwind.com",
+    "firstName": "Sofia",
+    "lastName": "Tanaka",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0073",
+    "hireDate": "2025-04-27",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Approved",
+      "BI"
+    ]
+  },
+  {
+    "id": "U0110",
+    "email": "ethan.singh109@contoso.com",
+    "firstName": "Ethan",
+    "lastName": "Singh",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0005",
+    "hireDate": "2020-03-25",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Compliance",
+      "Automation"
+    ]
+  },
+  {
+    "id": "U0111",
+    "email": "ethan.park110@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Park",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0094",
+    "hireDate": "2022-11-02",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Edge",
+      "Procurement",
+      "SAP"
+    ]
+  },
+  {
+    "id": "U0112",
+    "email": "tom.larsen111@contoso.com",
+    "firstName": "Tom",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0096",
+    "hireDate": "2022-11-01",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "GDPR",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0113",
+    "email": "oliver.dubois112@northwind.com",
+    "firstName": "Oliver",
+    "lastName": "Dubois",
+    "title": "Specialist",
+    "departmentId": "D007",
+    "managerId": "U0045",
+    "hireDate": "2022-02-09",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Integration",
+      "Engineering",
+      "Analytics",
+      "RFC",
+      "Compliance",
+      "Testing"
+    ]
+  },
+  {
+    "id": "U0114",
+    "email": "rosa.schmidt113@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Schmidt",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0098",
+    "hireDate": "2018-10-19",
+    "location": "Zurich",
+    "active": false,
+    "skills": [
+      "Analytics",
+      "Governance"
+    ]
+  },
+  {
+    "id": "U0115",
+    "email": "ava.dubois114@northwind.com",
+    "firstName": "Ava",
+    "lastName": "Dubois",
+    "title": "Specialist",
+    "departmentId": "D004",
+    "managerId": "U0060",
+    "hireDate": "2024-07-18",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Review",
+      "CRM",
+      "Testing",
+      "Reporting",
+      "ML"
+    ]
+  },
+  {
+    "id": "U0116",
+    "email": "tom.singh115@northwind.com",
+    "firstName": "Tom",
+    "lastName": "Singh",
+    "title": "Specialist",
+    "departmentId": "D005",
+    "managerId": "U0014",
+    "hireDate": "2018-02-12",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "SAP",
+      "Quality",
+      "Review",
+      "Data",
+      "Draft"
+    ]
+  },
+  {
+    "id": "U0117",
+    "email": "amir.larsen116@contoso.com",
+    "firstName": "Amir",
+    "lastName": "Larsen",
+    "title": "Specialist",
+    "departmentId": "D008",
+    "managerId": "U0004",
+    "hireDate": "2025-04-12",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Review",
+      "Finance",
+      "Data",
+      "IoT",
+      "Quality",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0118",
+    "email": "amir.ali117@northwind.com",
+    "firstName": "Amir",
+    "lastName": "Ali",
+    "title": "Specialist",
+    "departmentId": "D002",
+    "managerId": "U0009",
+    "hireDate": "2017-10-04",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Security",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "U0119",
+    "email": "luca.dubois118@contoso.com",
+    "firstName": "Luca",
+    "lastName": "Dubois",
+    "title": "Specialist",
+    "departmentId": "D007",
+    "managerId": "U0106",
+    "hireDate": "2020-08-07",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Review",
+      "UX",
+      "Reporting",
+      "Quality",
+      "BI"
+    ]
+  },
+  {
+    "id": "U0120",
+    "email": "liam.müller119@contoso.com",
+    "firstName": "Liam",
+    "lastName": "Müller",
+    "title": "Specialist",
+    "departmentId": "D003",
+    "managerId": "U0034",
+    "hireDate": "2017-08-01",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Production",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "U0121",
+    "email": "mason.santos120@contoso.com",
+    "firstName": "Mason",
+    "lastName": "Santos",
+    "title": "Analyst",
+    "departmentId": "D006",
+    "managerId": "U0048",
+    "hireDate": "2025-08-17",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Staging",
+      "BI",
+      "Data",
+      "Analytics",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0122",
+    "email": "diego.ali121@northwind.com",
+    "firstName": "Diego",
+    "lastName": "Ali",
+    "title": "Analyst",
+    "departmentId": "D008",
+    "managerId": "U0026",
+    "hireDate": "2023-11-20",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "Data",
+      "Engineering",
+      "S/4HANA",
+      "Draft",
+      "Mobile",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "U0123",
+    "email": "emma.larsen122@northwind.com",
+    "firstName": "Emma",
+    "lastName": "Larsen",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0090",
+    "hireDate": "2016-01-13",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Data",
+      "BI"
+    ]
+  },
+  {
+    "id": "U0124",
+    "email": "ethan.schneider123@contoso.com",
+    "firstName": "Ethan",
+    "lastName": "Schneider",
+    "title": "Analyst",
+    "departmentId": "D007",
+    "managerId": "U0048",
+    "hireDate": "2021-01-27",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Analytics",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0125",
+    "email": "emma.jensen124@contoso.com",
+    "firstName": "Emma",
+    "lastName": "Jensen",
+    "title": "Analyst",
+    "departmentId": "D001",
+    "managerId": "U0102",
+    "hireDate": "2018-07-11",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "API",
+      "Security",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0126",
+    "email": "priya.singh125@contoso.com",
+    "firstName": "Priya",
+    "lastName": "Singh",
+    "title": "Analyst",
+    "departmentId": "D002",
+    "managerId": "U0106",
+    "hireDate": "2018-11-24",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Finance",
+      "Automation",
+      "UX",
+      "Approved"
+    ]
+  },
+  {
+    "id": "U0127",
+    "email": "rosa.dubois126@northwind.com",
+    "firstName": "Rosa",
+    "lastName": "Dubois",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0040",
+    "hireDate": "2020-06-08",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Staging",
+      "BI",
+      "Security",
+      "Finance",
+      "IoT",
+      "UX"
+    ]
+  },
+  {
+    "id": "U0128",
+    "email": "james.schmidt127@northwind.com",
+    "firstName": "James",
+    "lastName": "Schmidt",
+    "title": "Analyst",
+    "departmentId": "D001",
+    "managerId": "U0099",
+    "hireDate": "2019-03-21",
+    "location": "Frankfurt",
+    "active": true,
+    "skills": [
+      "RFC",
+      "Production",
+      "Review"
+    ]
+  },
+  {
+    "id": "U0129",
+    "email": "ethan.kim128@northwind.com",
+    "firstName": "Ethan",
+    "lastName": "Kim",
+    "title": "Analyst",
+    "departmentId": "D002",
+    "managerId": "U0075",
+    "hireDate": "2016-09-09",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Governance",
+      "S/4HANA",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "U0130",
+    "email": "chen.müller129@contoso.com",
+    "firstName": "Chen",
+    "lastName": "Müller",
+    "title": "Analyst",
+    "departmentId": "D004",
+    "managerId": "U0060",
+    "hireDate": "2019-06-15",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "GDPR",
+      "UX",
+      "Procurement",
+      "Production"
+    ]
+  },
+  {
+    "id": "U0131",
+    "email": "lucas.silva130@contoso.com",
+    "firstName": "Lucas",
+    "lastName": "Silva",
+    "title": "Analyst",
+    "departmentId": "D005",
+    "managerId": "U0107",
+    "hireDate": "2021-12-12",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "U0132",
+    "email": "tom.tanaka131@contoso.com",
+    "firstName": "Tom",
+    "lastName": "Tanaka",
+    "title": "Analyst",
+    "departmentId": "D007",
+    "managerId": "U0090",
+    "hireDate": "2016-09-11",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Edge",
+      "Cloud",
+      "BI",
+      "Data",
+      "Approved",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0133",
+    "email": "finn.dubois132@northwind.com",
+    "firstName": "Finn",
+    "lastName": "Dubois",
+    "title": "Analyst",
+    "departmentId": "D008",
+    "managerId": "U0100",
+    "hireDate": "2023-04-08",
+    "location": "Zurich",
+    "active": true,
+    "skills": [
+      "HR",
+      "UX",
+      "Automation",
+      "Integration",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "U0134",
+    "email": "ravi.tanaka133@contoso.com",
+    "firstName": "Ravi",
+    "lastName": "Tanaka",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0043",
+    "hireDate": "2021-09-06",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "RFC",
+      "SAP",
+      "Compliance",
+      "Governance",
+      "Staging"
+    ]
+  },
+  {
+    "id": "U0135",
+    "email": "nadia.nguyen134@contoso.com",
+    "firstName": "Nadia",
+    "lastName": "Nguyen",
+    "title": "Analyst",
+    "departmentId": "D007",
+    "managerId": "U0129",
+    "hireDate": "2018-08-22",
+    "location": "Cologne",
+    "active": false,
+    "skills": [
+      "Migration",
+      "ML",
+      "Analytics",
+      "CRM"
+    ]
+  },
+  {
+    "id": "U0136",
+    "email": "luca.larsen135@northwind.com",
+    "firstName": "Luca",
+    "lastName": "Larsen",
+    "title": "Analyst",
+    "departmentId": "D007",
+    "managerId": "U0107",
+    "hireDate": "2024-11-20",
+    "location": "Cologne",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "U0137",
+    "email": "sofia.nguyen136@contoso.com",
+    "firstName": "Sofia",
+    "lastName": "Nguyen",
+    "title": "Analyst",
+    "departmentId": "D005",
+    "managerId": "U0019",
+    "hireDate": "2017-07-06",
+    "location": "Stuttgart",
+    "active": true,
+    "skills": [
+      "Draft",
+      "Approved",
+      "Integration",
+      "RFC"
+    ]
+  },
+  {
+    "id": "U0138",
+    "email": "zara.schmidt137@northwind.com",
+    "firstName": "Zara",
+    "lastName": "Schmidt",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0026",
+    "hireDate": "2024-01-15",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "Quality",
+      "Integration",
+      "Mobile",
+      "Finance",
+      "Edge"
+    ]
+  },
+  {
+    "id": "U0139",
+    "email": "noah.park138@northwind.com",
+    "firstName": "Noah",
+    "lastName": "Park",
+    "title": "Analyst",
+    "departmentId": "D004",
+    "managerId": "U0072",
+    "hireDate": "2017-01-23",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Pilot",
+      "SAP",
+      "API",
+      "Staging",
+      "Integration"
+    ]
+  },
+  {
+    "id": "U0140",
+    "email": "liam.ali139@northwind.com",
+    "firstName": "Liam",
+    "lastName": "Ali",
+    "title": "Analyst",
+    "departmentId": "D006",
+    "managerId": "U0074",
+    "hireDate": "2019-10-18",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "Approved",
+      "Data"
+    ]
+  },
+  {
+    "id": "U0141",
+    "email": "chen.schneider140@contoso.com",
+    "firstName": "Chen",
+    "lastName": "Schneider",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0086",
+    "hireDate": "2018-06-18",
+    "location": "Munich",
+    "active": false,
+    "skills": [
+      "Governance",
+      "Production"
+    ]
+  },
+  {
+    "id": "U0142",
+    "email": "ravi.silva141@northwind.com",
+    "firstName": "Ravi",
+    "lastName": "Silva",
+    "title": "Analyst",
+    "departmentId": "D006",
+    "managerId": "U0131",
+    "hireDate": "2019-06-18",
+    "location": "Düsseldorf",
+    "active": true,
+    "skills": [
+      "API",
+      "S/4HANA",
+      "Governance",
+      "Security",
+      "Production"
+    ]
+  },
+  {
+    "id": "U0143",
+    "email": "yuki.schmidt142@contoso.com",
+    "firstName": "Yuki",
+    "lastName": "Schmidt",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0122",
+    "hireDate": "2025-01-09",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Onboarding",
+      "Staging",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "U0144",
+    "email": "liam.tanaka143@contoso.com",
+    "firstName": "Liam",
+    "lastName": "Tanaka",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0040",
+    "hireDate": "2018-06-08",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Quality",
+      "BI",
+      "Analytics",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "U0145",
+    "email": "leila.jensen144@northwind.com",
+    "firstName": "Leila",
+    "lastName": "Jensen",
+    "title": "Analyst",
+    "departmentId": "D002",
+    "managerId": "U0061",
+    "hireDate": "2019-10-01",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Governance",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "U0146",
+    "email": "ava.larsen145@contoso.com",
+    "firstName": "Ava",
+    "lastName": "Larsen",
+    "title": "Analyst",
+    "departmentId": "D004",
+    "managerId": "U0065",
+    "hireDate": "2019-04-07",
+    "location": "Hamburg",
+    "active": true,
+    "skills": [
+      "Reporting",
+      "CRM",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "U0147",
+    "email": "lucas.santos146@northwind.com",
+    "firstName": "Lucas",
+    "lastName": "Santos",
+    "title": "Analyst",
+    "departmentId": "D002",
+    "managerId": "U0028",
+    "hireDate": "2019-07-06",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Engineering",
+      "IoT",
+      "API"
+    ]
+  },
+  {
+    "id": "U0148",
+    "email": "ethan.larsen147@contoso.com",
+    "firstName": "Ethan",
+    "lastName": "Larsen",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0088",
+    "hireDate": "2019-02-25",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Reporting",
+      "ML",
+      "Governance"
+    ]
+  },
+  {
+    "id": "U0149",
+    "email": "luca.silva148@northwind.com",
+    "firstName": "Luca",
+    "lastName": "Silva",
+    "title": "Analyst",
+    "departmentId": "D002",
+    "managerId": "U0029",
+    "hireDate": "2022-01-15",
+    "location": "Berlin",
+    "active": true,
+    "skills": [
+      "Procurement",
+      "Approved",
+      "Data",
+      "Quality",
+      "Engineering",
+      "Security"
+    ]
+  },
+  {
+    "id": "U0150",
+    "email": "mia.park149@northwind.com",
+    "firstName": "Mia",
+    "lastName": "Park",
+    "title": "Analyst",
+    "departmentId": "D003",
+    "managerId": "U0122",
+    "hireDate": "2025-08-25",
+    "location": "Munich",
+    "active": true,
+    "skills": [
+      "Cloud",
+      "Compliance",
+      "Review",
+      "Analytics",
+      "Mobile"
+    ]
+  }
+]

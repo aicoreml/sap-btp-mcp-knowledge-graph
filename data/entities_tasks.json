@@ -1,0 +1,4981 @@
+[
+  {
+    "id": "TSK0001",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ012",
+    "assigneeId": "U0047",
+    "reporterId": "U0141",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-01-11",
+    "createdAt": "2026-02-25",
+    "storyPoints": 3,
+    "tags": [
+      "Engineering",
+      "Sustainability",
+      "HR",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0002",
+    "title": "Update training materials",
+    "projectId": "PRJ013",
+    "assigneeId": "U0109",
+    "reporterId": "U0016",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-04-05",
+    "createdAt": "2026-01-31",
+    "storyPoints": 2,
+    "tags": [
+      "Integration",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0003",
+    "title": "Conduct security audit",
+    "projectId": "PRJ001",
+    "assigneeId": "U0012",
+    "reporterId": "U0017",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-03-26",
+    "createdAt": "2026-03-03",
+    "storyPoints": 8,
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0004",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ015",
+    "assigneeId": "U0041",
+    "reporterId": "U0010",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-06-05",
+    "createdAt": "2026-03-20",
+    "storyPoints": 3,
+    "tags": [
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0005",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ013",
+    "assigneeId": "U0124",
+    "reporterId": "U0085",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-06-18",
+    "createdAt": "2026-02-01",
+    "storyPoints": 1,
+    "tags": [
+      "Edge",
+      "Engineering",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0006",
+    "title": "Conduct security audit",
+    "projectId": "PRJ010",
+    "assigneeId": "U0039",
+    "reporterId": "U0023",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-06-03",
+    "createdAt": "2026-03-18",
+    "storyPoints": 5,
+    "tags": [
+      "GDPR",
+      "S/4HANA",
+      "HR",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0007",
+    "title": "Review integration test results",
+    "projectId": "PRJ003",
+    "assigneeId": "U0117",
+    "reporterId": "U0128",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-06-08",
+    "createdAt": "2026-05-01",
+    "storyPoints": 2,
+    "tags": [
+      "Security",
+      "Cloud",
+      "Automation",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0008",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ019",
+    "assigneeId": "U0130",
+    "reporterId": "U0127",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-05-22",
+    "createdAt": "2026-02-05",
+    "storyPoints": 13,
+    "tags": [
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0009",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ004",
+    "assigneeId": "U0018",
+    "reporterId": "U0005",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-06-18",
+    "createdAt": "2026-05-05",
+    "storyPoints": 3,
+    "tags": [
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0010",
+    "title": "Update training materials",
+    "projectId": "PRJ002",
+    "assigneeId": "U0063",
+    "reporterId": "U0098",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-01-18",
+    "createdAt": "2026-02-06",
+    "storyPoints": 8,
+    "tags": [
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0011",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ013",
+    "assigneeId": "U0011",
+    "reporterId": "U0112",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-17",
+    "createdAt": "2026-05-13",
+    "storyPoints": 8,
+    "tags": [
+      "Quality",
+      "Engineering",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0012",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ007",
+    "assigneeId": "U0081",
+    "reporterId": "U0068",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-06-08",
+    "createdAt": "2026-03-19",
+    "storyPoints": 3,
+    "tags": [
+      "Analytics",
+      "Compliance",
+      "HR",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0013",
+    "title": "Update training materials",
+    "projectId": "PRJ013",
+    "assigneeId": "U0094",
+    "reporterId": "U0007",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-05-02",
+    "createdAt": "2026-03-11",
+    "storyPoints": 5,
+    "tags": [
+      "Production",
+      "UX",
+      "RFC",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0014",
+    "title": "Code review for release",
+    "projectId": "PRJ012",
+    "assigneeId": "U0121",
+    "reporterId": "U0047",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-03-05",
+    "createdAt": "2026-01-23",
+    "storyPoints": 3,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0015",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ001",
+    "assigneeId": "U0067",
+    "reporterId": "U0140",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-04-16",
+    "createdAt": "2026-04-13",
+    "storyPoints": 2,
+    "tags": [
+      "Governance",
+      "Migration",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "TSK0016",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ002",
+    "assigneeId": "U0013",
+    "reporterId": "U0070",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-06-24",
+    "createdAt": "2026-04-08",
+    "storyPoints": 2,
+    "tags": [
+      "Security",
+      "S/4HANA",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0017",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ018",
+    "assigneeId": "U0118",
+    "reporterId": "U0140",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-02-03",
+    "createdAt": "2026-04-19",
+    "storyPoints": 8,
+    "tags": [
+      "Security",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0018",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ008",
+    "assigneeId": "U0019",
+    "reporterId": "U0141",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-03-17",
+    "createdAt": "2026-03-30",
+    "storyPoints": 8,
+    "tags": [
+      "BI",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0019",
+    "title": "Write unit tests",
+    "projectId": "PRJ004",
+    "assigneeId": "U0127",
+    "reporterId": "U0092",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-06-20",
+    "createdAt": "2026-02-12",
+    "storyPoints": 5,
+    "tags": [
+      "IoT",
+      "Onboarding",
+      "API",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0020",
+    "title": "Write unit tests",
+    "projectId": "PRJ003",
+    "assigneeId": "U0059",
+    "reporterId": "U0048",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-06-24",
+    "createdAt": "2026-02-20",
+    "storyPoints": 8,
+    "tags": [
+      "GDPR",
+      "BI",
+      "Mobile",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0021",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ016",
+    "assigneeId": "U0101",
+    "reporterId": "U0150",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-08",
+    "createdAt": "2026-04-20",
+    "storyPoints": 2,
+    "tags": [
+      "Pilot",
+      "GDPR",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0022",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ018",
+    "assigneeId": "U0082",
+    "reporterId": "U0021",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-01-07",
+    "createdAt": "2026-04-30",
+    "storyPoints": 8,
+    "tags": [
+      "HR",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0023",
+    "title": "Update API documentation",
+    "projectId": "PRJ010",
+    "assigneeId": "U0072",
+    "reporterId": "U0065",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-01-07",
+    "createdAt": "2026-03-30",
+    "storyPoints": 8,
+    "tags": [
+      "ML",
+      "Mobile",
+      "Security",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0024",
+    "title": "Write unit tests",
+    "projectId": "PRJ013",
+    "assigneeId": "U0148",
+    "reporterId": "U0120",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-04-20",
+    "createdAt": "2026-04-20",
+    "storyPoints": 8,
+    "tags": [
+      "HR",
+      "S/4HANA",
+      "ML",
+      "Security"
+    ]
+  },
+  {
+    "id": "TSK0025",
+    "title": "Conduct security audit",
+    "projectId": "PRJ001",
+    "assigneeId": "U0104",
+    "reporterId": "U0057",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-03-26",
+    "createdAt": "2026-03-27",
+    "storyPoints": 5,
+    "tags": [
+      "Analytics",
+      "Approved",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0026",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ003",
+    "assigneeId": "U0128",
+    "reporterId": "U0096",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-02-24",
+    "createdAt": "2026-04-10",
+    "storyPoints": 3,
+    "tags": [
+      "RFC",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0027",
+    "title": "Review integration test results",
+    "projectId": "PRJ018",
+    "assigneeId": "U0053",
+    "reporterId": "U0036",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-06-12",
+    "createdAt": "2026-03-17",
+    "storyPoints": 1,
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0028",
+    "title": "Conduct security audit",
+    "projectId": "PRJ014",
+    "assigneeId": "U0034",
+    "reporterId": "U0062",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-05-28",
+    "createdAt": "2026-04-22",
+    "storyPoints": 5,
+    "tags": [
+      "Quality",
+      "Edge",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0029",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ009",
+    "assigneeId": "U0122",
+    "reporterId": "U0079",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-02-06",
+    "createdAt": "2026-03-21",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud",
+      "Pilot",
+      "Quality",
+      "Integration"
+    ]
+  },
+  {
+    "id": "TSK0030",
+    "title": "Update training materials",
+    "projectId": "PRJ013",
+    "assigneeId": "U0139",
+    "reporterId": "U0116",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-05-22",
+    "createdAt": "2026-01-26",
+    "storyPoints": 2,
+    "tags": [
+      "Staging",
+      "Draft",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0031",
+    "title": "Update API documentation",
+    "projectId": "PRJ011",
+    "assigneeId": "U0038",
+    "reporterId": "U0109",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-02-20",
+    "createdAt": "2026-02-05",
+    "storyPoints": 1,
+    "tags": [
+      "Analytics",
+      "Pilot",
+      "Approved",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0032",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ009",
+    "assigneeId": "U0119",
+    "reporterId": "U0109",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-06-01",
+    "createdAt": "2026-03-10",
+    "storyPoints": 1,
+    "tags": [
+      "Review",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0033",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ003",
+    "assigneeId": "U0041",
+    "reporterId": "U0150",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-18",
+    "createdAt": "2026-03-12",
+    "storyPoints": 1,
+    "tags": [
+      "Data",
+      "GDPR",
+      "Procurement",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0034",
+    "title": "Update training materials",
+    "projectId": "PRJ016",
+    "assigneeId": "U0081",
+    "reporterId": "U0016",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-06-14",
+    "createdAt": "2026-02-20",
+    "storyPoints": 5,
+    "tags": [
+      "HR",
+      "Quality",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0035",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ019",
+    "assigneeId": "U0139",
+    "reporterId": "U0037",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-02-02",
+    "createdAt": "2026-04-28",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud",
+      "Integration",
+      "HR",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0036",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ012",
+    "assigneeId": "U0033",
+    "reporterId": "U0024",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-12",
+    "createdAt": "2026-02-01",
+    "storyPoints": 5,
+    "tags": [
+      "Governance",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0037",
+    "title": "Test ML model performance",
+    "projectId": "PRJ002",
+    "assigneeId": "U0125",
+    "reporterId": "U0058",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-02-14",
+    "createdAt": "2026-04-01",
+    "storyPoints": 8,
+    "tags": [
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0038",
+    "title": "Review integration test results",
+    "projectId": "PRJ009",
+    "assigneeId": "U0082",
+    "reporterId": "U0109",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-18",
+    "createdAt": "2026-03-22",
+    "storyPoints": 8,
+    "tags": [
+      "Security",
+      "Onboarding",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0039",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ003",
+    "assigneeId": "U0142",
+    "reporterId": "U0134",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-01-28",
+    "storyPoints": 13,
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0040",
+    "title": "Code review for release",
+    "projectId": "PRJ004",
+    "assigneeId": "U0115",
+    "reporterId": "U0055",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-10",
+    "createdAt": "2026-02-25",
+    "storyPoints": 5,
+    "tags": [
+      "HR",
+      "IoT",
+      "Governance",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0041",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ002",
+    "assigneeId": "U0029",
+    "reporterId": "U0129",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-06-14",
+    "createdAt": "2026-01-26",
+    "storyPoints": 13,
+    "tags": [
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0042",
+    "title": "Update API documentation",
+    "projectId": "PRJ006",
+    "assigneeId": "U0052",
+    "reporterId": "U0002",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-05-25",
+    "createdAt": "2026-01-30",
+    "storyPoints": 2,
+    "tags": [
+      "IoT",
+      "ML",
+      "HR",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0043",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ018",
+    "assigneeId": "U0110",
+    "reporterId": "U0122",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-02-13",
+    "createdAt": "2026-05-05",
+    "storyPoints": 1,
+    "tags": [
+      "API",
+      "UX",
+      "Edge",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0044",
+    "title": "Conduct security audit",
+    "projectId": "PRJ009",
+    "assigneeId": "U0035",
+    "reporterId": "U0131",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-04-03",
+    "createdAt": "2026-03-12",
+    "storyPoints": 2,
+    "tags": [
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0045",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ005",
+    "assigneeId": "U0096",
+    "reporterId": "U0116",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-28",
+    "createdAt": "2026-04-15",
+    "storyPoints": 5,
+    "tags": [
+      "Integration",
+      "Automation",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0046",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ006",
+    "assigneeId": "U0067",
+    "reporterId": "U0038",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-03-17",
+    "createdAt": "2026-03-15",
+    "storyPoints": 13,
+    "tags": [
+      "Governance",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0047",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ012",
+    "assigneeId": "U0124",
+    "reporterId": "U0110",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-06-15",
+    "createdAt": "2026-02-02",
+    "storyPoints": 1,
+    "tags": [
+      "CRM",
+      "Pilot",
+      "Engineering",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0048",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ012",
+    "assigneeId": "U0137",
+    "reporterId": "U0014",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-04-21",
+    "createdAt": "2026-01-31",
+    "storyPoints": 5,
+    "tags": [
+      "BI",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0049",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ008",
+    "assigneeId": "U0114",
+    "reporterId": "U0102",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-01-12",
+    "createdAt": "2026-05-13",
+    "storyPoints": 5,
+    "tags": [
+      "Approved",
+      "Finance",
+      "UX",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0050",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ011",
+    "assigneeId": "U0114",
+    "reporterId": "U0116",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-06-14",
+    "createdAt": "2026-01-31",
+    "storyPoints": 5,
+    "tags": [
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0051",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ012",
+    "assigneeId": "U0143",
+    "reporterId": "U0005",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-05-28",
+    "createdAt": "2026-01-19",
+    "storyPoints": 8,
+    "tags": [
+      "Staging",
+      "Governance",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0052",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ017",
+    "assigneeId": "U0090",
+    "reporterId": "U0110",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-05-09",
+    "createdAt": "2026-03-07",
+    "storyPoints": 3,
+    "tags": [
+      "Mobile",
+      "Pilot",
+      "Governance",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0053",
+    "title": "Write unit tests",
+    "projectId": "PRJ005",
+    "assigneeId": "U0054",
+    "reporterId": "U0087",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-16",
+    "createdAt": "2026-01-16",
+    "storyPoints": 1,
+    "tags": [
+      "Governance",
+      "Mobile",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "TSK0054",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ010",
+    "assigneeId": "U0096",
+    "reporterId": "U0057",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-03-19",
+    "createdAt": "2026-01-21",
+    "storyPoints": 2,
+    "tags": [
+      "Integration",
+      "Security",
+      "Reporting",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0055",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ005",
+    "assigneeId": "U0016",
+    "reporterId": "U0138",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-06-07",
+    "createdAt": "2026-04-01",
+    "storyPoints": 3,
+    "tags": [
+      "Pilot",
+      "S/4HANA",
+      "ML",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0056",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ020",
+    "assigneeId": "U0063",
+    "reporterId": "U0148",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-02-07",
+    "createdAt": "2026-03-29",
+    "storyPoints": 13,
+    "tags": [
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0057",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ018",
+    "assigneeId": "U0059",
+    "reporterId": "U0009",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-06-21",
+    "createdAt": "2026-01-24",
+    "storyPoints": 5,
+    "tags": [
+      "Onboarding",
+      "Security",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "TSK0058",
+    "title": "Review integration test results",
+    "projectId": "PRJ019",
+    "assigneeId": "U0101",
+    "reporterId": "U0039",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-06-26",
+    "createdAt": "2026-01-27",
+    "storyPoints": 5,
+    "tags": [
+      "Testing",
+      "Quality",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0059",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ003",
+    "assigneeId": "U0099",
+    "reporterId": "U0024",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-03-18",
+    "createdAt": "2026-03-15",
+    "storyPoints": 1,
+    "tags": [
+      "Staging",
+      "Compliance",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0060",
+    "title": "Update API documentation",
+    "projectId": "PRJ008",
+    "assigneeId": "U0033",
+    "reporterId": "U0135",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-03-16",
+    "createdAt": "2026-04-21",
+    "storyPoints": 1,
+    "tags": [
+      "Automation",
+      "ML",
+      "Reporting",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0061",
+    "title": "Test ML model performance",
+    "projectId": "PRJ017",
+    "assigneeId": "U0126",
+    "reporterId": "U0094",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-05-15",
+    "createdAt": "2026-04-27",
+    "storyPoints": 5,
+    "tags": [
+      "Edge",
+      "Review",
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0062",
+    "title": "Conduct security audit",
+    "projectId": "PRJ017",
+    "assigneeId": "U0008",
+    "reporterId": "U0032",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-18",
+    "createdAt": "2026-04-21",
+    "storyPoints": 5,
+    "tags": [
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0063",
+    "title": "Conduct security audit",
+    "projectId": "PRJ017",
+    "assigneeId": "U0072",
+    "reporterId": "U0135",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-06-05",
+    "createdAt": "2026-03-11",
+    "storyPoints": 1,
+    "tags": [
+      "Finance",
+      "Mobile",
+      "Testing",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0064",
+    "title": "Review integration test results",
+    "projectId": "PRJ010",
+    "assigneeId": "U0135",
+    "reporterId": "U0097",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-02-27",
+    "createdAt": "2026-04-15",
+    "storyPoints": 13,
+    "tags": [
+      "Engineering",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0065",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ002",
+    "assigneeId": "U0020",
+    "reporterId": "U0092",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-03-06",
+    "createdAt": "2026-04-08",
+    "storyPoints": 2,
+    "tags": [
+      "Pilot",
+      "Automation",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0066",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ005",
+    "assigneeId": "U0086",
+    "reporterId": "U0068",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-05-12",
+    "createdAt": "2026-02-15",
+    "storyPoints": 13,
+    "tags": [
+      "IoT",
+      "Pilot",
+      "BI",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0067",
+    "title": "Write unit tests",
+    "projectId": "PRJ007",
+    "assigneeId": "U0102",
+    "reporterId": "U0103",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-06-17",
+    "createdAt": "2026-01-24",
+    "storyPoints": 3,
+    "tags": [
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0068",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ013",
+    "assigneeId": "U0003",
+    "reporterId": "U0076",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-06-06",
+    "createdAt": "2026-02-15",
+    "storyPoints": 8,
+    "tags": [
+      "Quality",
+      "SAP",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0069",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ005",
+    "assigneeId": "U0059",
+    "reporterId": "U0075",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-06-28",
+    "createdAt": "2026-04-12",
+    "storyPoints": 1,
+    "tags": [
+      "S/4HANA",
+      "Finance",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "TSK0070",
+    "title": "Code review for release",
+    "projectId": "PRJ012",
+    "assigneeId": "U0120",
+    "reporterId": "U0112",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-03",
+    "createdAt": "2026-03-18",
+    "storyPoints": 8,
+    "tags": [
+      "Engineering",
+      "Governance",
+      "HR",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0071",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ010",
+    "assigneeId": "U0140",
+    "reporterId": "U0034",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-02-11",
+    "createdAt": "2026-05-13",
+    "storyPoints": 2,
+    "tags": [
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0072",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ016",
+    "assigneeId": "U0013",
+    "reporterId": "U0083",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-05-15",
+    "storyPoints": 3,
+    "tags": [
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0073",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ007",
+    "assigneeId": "U0102",
+    "reporterId": "U0017",
+    "status": "In Progress",
+    "priority": "Low",
+    "dueDate": "2026-01-28",
+    "createdAt": "2026-02-22",
+    "storyPoints": 8,
+    "tags": [
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0074",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ015",
+    "assigneeId": "U0053",
+    "reporterId": "U0069",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-02-28",
+    "createdAt": "2026-03-28",
+    "storyPoints": 3,
+    "tags": [
+      "Integration",
+      "SAP",
+      "Sustainability",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0075",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ015",
+    "assigneeId": "U0026",
+    "reporterId": "U0106",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-06-08",
+    "createdAt": "2026-05-15",
+    "storyPoints": 5,
+    "tags": [
+      "Compliance",
+      "Draft",
+      "Automation",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0076",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ012",
+    "assigneeId": "U0074",
+    "reporterId": "U0055",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-01-09",
+    "createdAt": "2026-04-13",
+    "storyPoints": 1,
+    "tags": [
+      "Data",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0077",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ015",
+    "assigneeId": "U0141",
+    "reporterId": "U0032",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-06-19",
+    "createdAt": "2026-03-24",
+    "storyPoints": 5,
+    "tags": [
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0078",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ006",
+    "assigneeId": "U0086",
+    "reporterId": "U0130",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-05-16",
+    "createdAt": "2026-02-08",
+    "storyPoints": 2,
+    "tags": [
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0079",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ008",
+    "assigneeId": "U0039",
+    "reporterId": "U0028",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-02-02",
+    "createdAt": "2026-05-15",
+    "storyPoints": 2,
+    "tags": [
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0080",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ005",
+    "assigneeId": "U0074",
+    "reporterId": "U0056",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-05-01",
+    "createdAt": "2026-05-14",
+    "storyPoints": 3,
+    "tags": [
+      "CRM",
+      "GDPR",
+      "IoT",
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0081",
+    "title": "Conduct security audit",
+    "projectId": "PRJ011",
+    "assigneeId": "U0037",
+    "reporterId": "U0025",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-05-01",
+    "createdAt": "2026-04-15",
+    "storyPoints": 1,
+    "tags": [
+      "Mobile",
+      "Testing",
+      "Review",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0082",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ004",
+    "assigneeId": "U0045",
+    "reporterId": "U0061",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-05-25",
+    "createdAt": "2026-02-23",
+    "storyPoints": 2,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0083",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ018",
+    "assigneeId": "U0003",
+    "reporterId": "U0053",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-01-01",
+    "createdAt": "2026-02-21",
+    "storyPoints": 5,
+    "tags": [
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0084",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ020",
+    "assigneeId": "U0102",
+    "reporterId": "U0117",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-03-02",
+    "createdAt": "2026-03-15",
+    "storyPoints": 13,
+    "tags": [
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0085",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ009",
+    "assigneeId": "U0085",
+    "reporterId": "U0125",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-02-28",
+    "createdAt": "2026-04-22",
+    "storyPoints": 13,
+    "tags": [
+      "Integration"
+    ]
+  },
+  {
+    "id": "TSK0086",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ003",
+    "assigneeId": "U0108",
+    "reporterId": "U0121",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-05-16",
+    "createdAt": "2026-01-20",
+    "storyPoints": 1,
+    "tags": [
+      "Mobile",
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0087",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ007",
+    "assigneeId": "U0111",
+    "reporterId": "U0048",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-04-15",
+    "createdAt": "2026-03-03",
+    "storyPoints": 8,
+    "tags": [
+      "Sustainability",
+      "Migration",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "TSK0088",
+    "title": "Review integration test results",
+    "projectId": "PRJ010",
+    "assigneeId": "U0115",
+    "reporterId": "U0126",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-03-16",
+    "createdAt": "2026-05-04",
+    "storyPoints": 3,
+    "tags": [
+      "API",
+      "Draft",
+      "Automation",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0089",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ007",
+    "assigneeId": "U0008",
+    "reporterId": "U0120",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-06-10",
+    "createdAt": "2026-04-03",
+    "storyPoints": 3,
+    "tags": [
+      "Staging",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0090",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ019",
+    "assigneeId": "U0096",
+    "reporterId": "U0024",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-04-08",
+    "createdAt": "2026-05-06",
+    "storyPoints": 1,
+    "tags": [
+      "Reporting",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0091",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ017",
+    "assigneeId": "U0095",
+    "reporterId": "U0029",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-02-19",
+    "createdAt": "2026-03-14",
+    "storyPoints": 8,
+    "tags": [
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0092",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ005",
+    "assigneeId": "U0051",
+    "reporterId": "U0086",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-05-08",
+    "createdAt": "2026-01-25",
+    "storyPoints": 8,
+    "tags": [
+      "S/4HANA",
+      "BI",
+      "Sustainability",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0093",
+    "title": "Review integration test results",
+    "projectId": "PRJ016",
+    "assigneeId": "U0127",
+    "reporterId": "U0084",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-02-02",
+    "createdAt": "2026-04-12",
+    "storyPoints": 3,
+    "tags": [
+      "Testing",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0094",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ018",
+    "assigneeId": "U0045",
+    "reporterId": "U0025",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-01-09",
+    "createdAt": "2026-04-14",
+    "storyPoints": 3,
+    "tags": [
+      "Draft",
+      "Security",
+      "Governance",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0095",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ020",
+    "assigneeId": "U0076",
+    "reporterId": "U0096",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-14",
+    "createdAt": "2026-04-13",
+    "storyPoints": 5,
+    "tags": [
+      "Finance",
+      "GDPR",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0096",
+    "title": "Update training materials",
+    "projectId": "PRJ011",
+    "assigneeId": "U0144",
+    "reporterId": "U0047",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-03-06",
+    "createdAt": "2026-03-13",
+    "storyPoints": 2,
+    "tags": [
+      "Analytics",
+      "Review",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "TSK0097",
+    "title": "Review integration test results",
+    "projectId": "PRJ018",
+    "assigneeId": "U0143",
+    "reporterId": "U0002",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-01-10",
+    "createdAt": "2026-05-03",
+    "storyPoints": 8,
+    "tags": [
+      "Mobile",
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0098",
+    "title": "Code review for release",
+    "projectId": "PRJ018",
+    "assigneeId": "U0030",
+    "reporterId": "U0010",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-02-20",
+    "createdAt": "2026-04-29",
+    "storyPoints": 2,
+    "tags": [
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0099",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ019",
+    "assigneeId": "U0148",
+    "reporterId": "U0053",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-03-22",
+    "createdAt": "2026-02-04",
+    "storyPoints": 3,
+    "tags": [
+      "Finance",
+      "Data",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0100",
+    "title": "Update training materials",
+    "projectId": "PRJ002",
+    "assigneeId": "U0001",
+    "reporterId": "U0136",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-01-24",
+    "createdAt": "2026-03-26",
+    "storyPoints": 5,
+    "tags": [
+      "UX",
+      "Migration",
+      "BI",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0101",
+    "title": "Update training materials",
+    "projectId": "PRJ020",
+    "assigneeId": "U0120",
+    "reporterId": "U0140",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-03-13",
+    "createdAt": "2026-01-23",
+    "storyPoints": 5,
+    "tags": [
+      "Staging",
+      "Sustainability",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0102",
+    "title": "Test ML model performance",
+    "projectId": "PRJ007",
+    "assigneeId": "U0104",
+    "reporterId": "U0103",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-01-25",
+    "createdAt": "2026-04-03",
+    "storyPoints": 5,
+    "tags": [
+      "Security",
+      "Production",
+      "Finance",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0103",
+    "title": "Conduct security audit",
+    "projectId": "PRJ019",
+    "assigneeId": "U0099",
+    "reporterId": "U0016",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-01-05",
+    "createdAt": "2026-04-07",
+    "storyPoints": 1,
+    "tags": [
+      "API",
+      "Reporting",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0104",
+    "title": "Review integration test results",
+    "projectId": "PRJ018",
+    "assigneeId": "U0009",
+    "reporterId": "U0029",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-04-09",
+    "createdAt": "2026-03-14",
+    "storyPoints": 13,
+    "tags": [
+      "Analytics",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0105",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ016",
+    "assigneeId": "U0080",
+    "reporterId": "U0054",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-05-25",
+    "createdAt": "2026-03-30",
+    "storyPoints": 5,
+    "tags": [
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0106",
+    "title": "Update API documentation",
+    "projectId": "PRJ013",
+    "assigneeId": "U0150",
+    "reporterId": "U0131",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-03-11",
+    "createdAt": "2026-03-22",
+    "storyPoints": 2,
+    "tags": [
+      "GDPR",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0107",
+    "title": "Conduct security audit",
+    "projectId": "PRJ008",
+    "assigneeId": "U0079",
+    "reporterId": "U0089",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-27",
+    "createdAt": "2026-01-20",
+    "storyPoints": 5,
+    "tags": [
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0108",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ003",
+    "assigneeId": "U0136",
+    "reporterId": "U0088",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-10",
+    "createdAt": "2026-02-05",
+    "storyPoints": 3,
+    "tags": [
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0109",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ014",
+    "assigneeId": "U0078",
+    "reporterId": "U0035",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-04-18",
+    "storyPoints": 13,
+    "tags": [
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0110",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ015",
+    "assigneeId": "U0117",
+    "reporterId": "U0097",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-02-19",
+    "createdAt": "2026-03-22",
+    "storyPoints": 13,
+    "tags": [
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0111",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ010",
+    "assigneeId": "U0092",
+    "reporterId": "U0002",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-01-05",
+    "createdAt": "2026-02-18",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud",
+      "S/4HANA",
+      "Draft",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0112",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ017",
+    "assigneeId": "U0109",
+    "reporterId": "U0042",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-04-13",
+    "createdAt": "2026-02-21",
+    "storyPoints": 3,
+    "tags": [
+      "Finance",
+      "Analytics",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0113",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ007",
+    "assigneeId": "U0050",
+    "reporterId": "U0005",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-02-02",
+    "storyPoints": 8,
+    "tags": [
+      "CRM",
+      "Analytics",
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0114",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ018",
+    "assigneeId": "U0009",
+    "reporterId": "U0120",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-03-24",
+    "createdAt": "2026-03-24",
+    "storyPoints": 1,
+    "tags": [
+      "Integration",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0115",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ005",
+    "assigneeId": "U0040",
+    "reporterId": "U0005",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-02-03",
+    "createdAt": "2026-03-05",
+    "storyPoints": 1,
+    "tags": [
+      "Reporting",
+      "Data",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0116",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ010",
+    "assigneeId": "U0119",
+    "reporterId": "U0091",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-05-04",
+    "createdAt": "2026-02-03",
+    "storyPoints": 2,
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0117",
+    "title": "Update training materials",
+    "projectId": "PRJ009",
+    "assigneeId": "U0079",
+    "reporterId": "U0012",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-04-08",
+    "createdAt": "2026-03-05",
+    "storyPoints": 1,
+    "tags": [
+      "ML",
+      "Finance",
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0118",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ003",
+    "assigneeId": "U0142",
+    "reporterId": "U0111",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-05-20",
+    "createdAt": "2026-05-08",
+    "storyPoints": 5,
+    "tags": [
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0119",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ007",
+    "assigneeId": "U0048",
+    "reporterId": "U0055",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-03-24",
+    "createdAt": "2026-01-28",
+    "storyPoints": 2,
+    "tags": [
+      "Analytics",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0120",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ016",
+    "assigneeId": "U0069",
+    "reporterId": "U0148",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-05-16",
+    "createdAt": "2026-04-05",
+    "storyPoints": 5,
+    "tags": [
+      "Data",
+      "Review",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0121",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ008",
+    "assigneeId": "U0039",
+    "reporterId": "U0065",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-03-14",
+    "storyPoints": 5,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "id": "TSK0122",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ016",
+    "assigneeId": "U0112",
+    "reporterId": "U0084",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-02",
+    "createdAt": "2026-01-26",
+    "storyPoints": 13,
+    "tags": [
+      "Engineering",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0123",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ015",
+    "assigneeId": "U0029",
+    "reporterId": "U0031",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-06-20",
+    "createdAt": "2026-02-21",
+    "storyPoints": 1,
+    "tags": [
+      "Finance",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0124",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ020",
+    "assigneeId": "U0137",
+    "reporterId": "U0078",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-03-01",
+    "createdAt": "2026-02-17",
+    "storyPoints": 1,
+    "tags": [
+      "Engineering",
+      "Reporting",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0125",
+    "title": "Conduct security audit",
+    "projectId": "PRJ008",
+    "assigneeId": "U0044",
+    "reporterId": "U0101",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-06-13",
+    "createdAt": "2026-02-07",
+    "storyPoints": 5,
+    "tags": [
+      "ML",
+      "Sustainability",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0126",
+    "title": "Conduct security audit",
+    "projectId": "PRJ015",
+    "assigneeId": "U0069",
+    "reporterId": "U0040",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-05-13",
+    "storyPoints": 8,
+    "tags": [
+      "HR",
+      "Governance",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0127",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ009",
+    "assigneeId": "U0032",
+    "reporterId": "U0098",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-02-15",
+    "createdAt": "2026-02-10",
+    "storyPoints": 5,
+    "tags": [
+      "Quality",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0128",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ011",
+    "assigneeId": "U0064",
+    "reporterId": "U0048",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-01-18",
+    "createdAt": "2026-02-05",
+    "storyPoints": 5,
+    "tags": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0129",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ012",
+    "assigneeId": "U0107",
+    "reporterId": "U0148",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-02-22",
+    "createdAt": "2026-04-14",
+    "storyPoints": 2,
+    "tags": [
+      "Testing",
+      "Procurement",
+      "Integration",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0130",
+    "title": "Update API documentation",
+    "projectId": "PRJ008",
+    "assigneeId": "U0021",
+    "reporterId": "U0078",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-26",
+    "createdAt": "2026-05-01",
+    "storyPoints": 5,
+    "tags": [
+      "S/4HANA",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0131",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ015",
+    "assigneeId": "U0009",
+    "reporterId": "U0039",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-03-16",
+    "createdAt": "2026-03-03",
+    "storyPoints": 13,
+    "tags": [
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0132",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ006",
+    "assigneeId": "U0110",
+    "reporterId": "U0005",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-04-02",
+    "createdAt": "2026-04-18",
+    "storyPoints": 8,
+    "tags": [
+      "Security",
+      "Integration",
+      "Review",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0133",
+    "title": "Test ML model performance",
+    "projectId": "PRJ011",
+    "assigneeId": "U0031",
+    "reporterId": "U0105",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-06-24",
+    "createdAt": "2026-04-23",
+    "storyPoints": 1,
+    "tags": [
+      "IoT",
+      "Compliance",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0134",
+    "title": "Conduct security audit",
+    "projectId": "PRJ007",
+    "assigneeId": "U0053",
+    "reporterId": "U0103",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-06-23",
+    "createdAt": "2026-04-30",
+    "storyPoints": 5,
+    "tags": [
+      "Approved",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0135",
+    "title": "Update API documentation",
+    "projectId": "PRJ017",
+    "assigneeId": "U0015",
+    "reporterId": "U0091",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-02-28",
+    "createdAt": "2026-03-12",
+    "storyPoints": 3,
+    "tags": [
+      "Procurement",
+      "BI",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0136",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ008",
+    "assigneeId": "U0029",
+    "reporterId": "U0059",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-01-29",
+    "storyPoints": 13,
+    "tags": [
+      "Testing",
+      "Data",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0137",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ020",
+    "assigneeId": "U0004",
+    "reporterId": "U0145",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-06-24",
+    "createdAt": "2026-03-30",
+    "storyPoints": 13,
+    "tags": [
+      "BI",
+      "Security",
+      "Edge",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0138",
+    "title": "Test ML model performance",
+    "projectId": "PRJ009",
+    "assigneeId": "U0108",
+    "reporterId": "U0143",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-02-19",
+    "createdAt": "2026-02-07",
+    "storyPoints": 2,
+    "tags": [
+      "Mobile",
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0139",
+    "title": "Code review for release",
+    "projectId": "PRJ008",
+    "assigneeId": "U0127",
+    "reporterId": "U0145",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-01-21",
+    "createdAt": "2026-05-07",
+    "storyPoints": 2,
+    "tags": [
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0140",
+    "title": "Write unit tests",
+    "projectId": "PRJ010",
+    "assigneeId": "U0089",
+    "reporterId": "U0025",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-01-25",
+    "createdAt": "2026-01-20",
+    "storyPoints": 5,
+    "tags": [
+      "Integration"
+    ]
+  },
+  {
+    "id": "TSK0141",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ015",
+    "assigneeId": "U0131",
+    "reporterId": "U0025",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-05-19",
+    "createdAt": "2026-04-02",
+    "storyPoints": 3,
+    "tags": [
+      "Production",
+      "Analytics",
+      "Governance",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0142",
+    "title": "Write unit tests",
+    "projectId": "PRJ004",
+    "assigneeId": "U0001",
+    "reporterId": "U0125",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-21",
+    "createdAt": "2026-02-06",
+    "storyPoints": 13,
+    "tags": [
+      "Onboarding",
+      "Security",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0143",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ003",
+    "assigneeId": "U0025",
+    "reporterId": "U0097",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-01-04",
+    "createdAt": "2026-04-28",
+    "storyPoints": 13,
+    "tags": [
+      "Engineering",
+      "Review",
+      "Compliance",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0144",
+    "title": "Conduct security audit",
+    "projectId": "PRJ010",
+    "assigneeId": "U0109",
+    "reporterId": "U0107",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-04-09",
+    "createdAt": "2026-05-06",
+    "storyPoints": 8,
+    "tags": [
+      "Migration",
+      "Security",
+      "Integration"
+    ]
+  },
+  {
+    "id": "TSK0145",
+    "title": "Test ML model performance",
+    "projectId": "PRJ015",
+    "assigneeId": "U0150",
+    "reporterId": "U0011",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-03-28",
+    "createdAt": "2026-03-04",
+    "storyPoints": 13,
+    "tags": [
+      "ML",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0146",
+    "title": "Update API documentation",
+    "projectId": "PRJ013",
+    "assigneeId": "U0119",
+    "reporterId": "U0020",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-02-22",
+    "createdAt": "2026-03-31",
+    "storyPoints": 1,
+    "tags": [
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0147",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ018",
+    "assigneeId": "U0032",
+    "reporterId": "U0134",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-03-02",
+    "createdAt": "2026-05-05",
+    "storyPoints": 2,
+    "tags": [
+      "API",
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0148",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ003",
+    "assigneeId": "U0039",
+    "reporterId": "U0042",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-04-23",
+    "createdAt": "2026-01-31",
+    "storyPoints": 2,
+    "tags": [
+      "GDPR",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0149",
+    "title": "Test ML model performance",
+    "projectId": "PRJ019",
+    "assigneeId": "U0094",
+    "reporterId": "U0044",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-03-21",
+    "createdAt": "2026-03-16",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud",
+      "Migration",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0150",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ002",
+    "assigneeId": "U0149",
+    "reporterId": "U0119",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-02-22",
+    "createdAt": "2026-01-16",
+    "storyPoints": 1,
+    "tags": [
+      "API",
+      "ML",
+      "Onboarding",
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0151",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ018",
+    "assigneeId": "U0063",
+    "reporterId": "U0011",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-11",
+    "createdAt": "2026-01-25",
+    "storyPoints": 2,
+    "tags": [
+      "BI",
+      "Security",
+      "Procurement",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0152",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ012",
+    "assigneeId": "U0063",
+    "reporterId": "U0086",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-02-25",
+    "createdAt": "2026-02-03",
+    "storyPoints": 3,
+    "tags": [
+      "RFC",
+      "Integration",
+      "Migration",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0153",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ004",
+    "assigneeId": "U0039",
+    "reporterId": "U0033",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-03-26",
+    "createdAt": "2026-02-09",
+    "storyPoints": 2,
+    "tags": [
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0154",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ005",
+    "assigneeId": "U0127",
+    "reporterId": "U0082",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-01-28",
+    "createdAt": "2026-04-13",
+    "storyPoints": 3,
+    "tags": [
+      "Review",
+      "Sustainability",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0155",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ016",
+    "assigneeId": "U0016",
+    "reporterId": "U0071",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-01-04",
+    "createdAt": "2026-04-06",
+    "storyPoints": 2,
+    "tags": [
+      "Data",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0156",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ015",
+    "assigneeId": "U0098",
+    "reporterId": "U0101",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-03-23",
+    "createdAt": "2026-05-01",
+    "storyPoints": 1,
+    "tags": [
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0157",
+    "title": "Write unit tests",
+    "projectId": "PRJ009",
+    "assigneeId": "U0017",
+    "reporterId": "U0003",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-05-01",
+    "createdAt": "2026-01-26",
+    "storyPoints": 2,
+    "tags": [
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0158",
+    "title": "Write unit tests",
+    "projectId": "PRJ001",
+    "assigneeId": "U0098",
+    "reporterId": "U0009",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-05-17",
+    "createdAt": "2026-05-01",
+    "storyPoints": 1,
+    "tags": [
+      "Integration",
+      "Security",
+      "Procurement",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0159",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ001",
+    "assigneeId": "U0146",
+    "reporterId": "U0078",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-06-07",
+    "createdAt": "2026-01-20",
+    "storyPoints": 13,
+    "tags": [
+      "Edge",
+      "Compliance",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0160",
+    "title": "Update training materials",
+    "projectId": "PRJ015",
+    "assigneeId": "U0035",
+    "reporterId": "U0075",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-05-03",
+    "createdAt": "2026-02-03",
+    "storyPoints": 2,
+    "tags": [
+      "API",
+      "Security"
+    ]
+  },
+  {
+    "id": "TSK0161",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ001",
+    "assigneeId": "U0075",
+    "reporterId": "U0031",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-03-27",
+    "createdAt": "2026-01-28",
+    "storyPoints": 13,
+    "tags": [
+      "GDPR",
+      "UX",
+      "Analytics",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0162",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ012",
+    "assigneeId": "U0075",
+    "reporterId": "U0021",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-02-15",
+    "createdAt": "2026-04-05",
+    "storyPoints": 13,
+    "tags": [
+      "Governance",
+      "Compliance",
+      "S/4HANA",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0163",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ014",
+    "assigneeId": "U0057",
+    "reporterId": "U0136",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-05-19",
+    "createdAt": "2026-01-24",
+    "storyPoints": 3,
+    "tags": [
+      "Security",
+      "ML",
+      "Quality",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0164",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ016",
+    "assigneeId": "U0025",
+    "reporterId": "U0066",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-04-15",
+    "createdAt": "2026-02-11",
+    "storyPoints": 5,
+    "tags": [
+      "Engineering",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0165",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ017",
+    "assigneeId": "U0002",
+    "reporterId": "U0068",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-04-20",
+    "createdAt": "2026-05-09",
+    "storyPoints": 2,
+    "tags": [
+      "Review",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0166",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ006",
+    "assigneeId": "U0081",
+    "reporterId": "U0061",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-02-11",
+    "createdAt": "2026-04-18",
+    "storyPoints": 3,
+    "tags": [
+      "Engineering",
+      "Edge",
+      "ML",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0167",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ013",
+    "assigneeId": "U0127",
+    "reporterId": "U0029",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-06-03",
+    "createdAt": "2026-04-22",
+    "storyPoints": 2,
+    "tags": [
+      "BI",
+      "Testing",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0168",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ016",
+    "assigneeId": "U0074",
+    "reporterId": "U0076",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-05-02",
+    "createdAt": "2026-04-12",
+    "storyPoints": 3,
+    "tags": [
+      "RFC",
+      "ML",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "TSK0169",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ001",
+    "assigneeId": "U0127",
+    "reporterId": "U0001",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-06-03",
+    "createdAt": "2026-02-26",
+    "storyPoints": 5,
+    "tags": [
+      "Quality",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0170",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ002",
+    "assigneeId": "U0141",
+    "reporterId": "U0123",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-05-17",
+    "createdAt": "2026-02-22",
+    "storyPoints": 5,
+    "tags": [
+      "UX",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0171",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ003",
+    "assigneeId": "U0090",
+    "reporterId": "U0008",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-02-17",
+    "createdAt": "2026-01-23",
+    "storyPoints": 13,
+    "tags": [
+      "Migration",
+      "Onboarding",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "TSK0172",
+    "title": "Review integration test results",
+    "projectId": "PRJ016",
+    "assigneeId": "U0137",
+    "reporterId": "U0008",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-01",
+    "createdAt": "2026-04-29",
+    "storyPoints": 2,
+    "tags": [
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0173",
+    "title": "Update training materials",
+    "projectId": "PRJ013",
+    "assigneeId": "U0119",
+    "reporterId": "U0130",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-04-23",
+    "createdAt": "2026-03-14",
+    "storyPoints": 3,
+    "tags": [
+      "Quality",
+      "Migration",
+      "CRM",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0174",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ017",
+    "assigneeId": "U0004",
+    "reporterId": "U0059",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-04-08",
+    "createdAt": "2026-02-28",
+    "storyPoints": 3,
+    "tags": [
+      "Approved",
+      "CRM",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0175",
+    "title": "Update training materials",
+    "projectId": "PRJ002",
+    "assigneeId": "U0077",
+    "reporterId": "U0033",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-20",
+    "createdAt": "2026-03-15",
+    "storyPoints": 3,
+    "tags": [
+      "Integration",
+      "GDPR",
+      "ML",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "TSK0176",
+    "title": "Conduct security audit",
+    "projectId": "PRJ015",
+    "assigneeId": "U0148",
+    "reporterId": "U0139",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-02-13",
+    "createdAt": "2026-03-16",
+    "storyPoints": 1,
+    "tags": [
+      "IoT",
+      "Pilot",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0177",
+    "title": "Test ML model performance",
+    "projectId": "PRJ009",
+    "assigneeId": "U0007",
+    "reporterId": "U0068",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-02-20",
+    "createdAt": "2026-05-07",
+    "storyPoints": 2,
+    "tags": [
+      "IoT",
+      "Testing",
+      "Draft",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0178",
+    "title": "Code review for release",
+    "projectId": "PRJ006",
+    "assigneeId": "U0037",
+    "reporterId": "U0086",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-22",
+    "createdAt": "2026-02-02",
+    "storyPoints": 3,
+    "tags": [
+      "IoT",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0179",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ019",
+    "assigneeId": "U0091",
+    "reporterId": "U0131",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-05-10",
+    "createdAt": "2026-02-04",
+    "storyPoints": 13,
+    "tags": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0180",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ012",
+    "assigneeId": "U0015",
+    "reporterId": "U0014",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-03-12",
+    "createdAt": "2026-01-20",
+    "storyPoints": 13,
+    "tags": [
+      "Automation",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0181",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ020",
+    "assigneeId": "U0123",
+    "reporterId": "U0017",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-02-17",
+    "createdAt": "2026-04-06",
+    "storyPoints": 3,
+    "tags": [
+      "Finance",
+      "RFC",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0182",
+    "title": "Write unit tests",
+    "projectId": "PRJ012",
+    "assigneeId": "U0120",
+    "reporterId": "U0142",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-06-12",
+    "createdAt": "2026-04-28",
+    "storyPoints": 8,
+    "tags": [
+      "Automation",
+      "Migration",
+      "Compliance",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0183",
+    "title": "Write unit tests",
+    "projectId": "PRJ008",
+    "assigneeId": "U0059",
+    "reporterId": "U0031",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-03-14",
+    "createdAt": "2026-04-25",
+    "storyPoints": 2,
+    "tags": [
+      "Cloud",
+      "Analytics",
+      "Quality",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0184",
+    "title": "Code review for release",
+    "projectId": "PRJ009",
+    "assigneeId": "U0058",
+    "reporterId": "U0084",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-01-25",
+    "createdAt": "2026-01-29",
+    "storyPoints": 2,
+    "tags": [
+      "Quality",
+      "IoT",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0185",
+    "title": "Review integration test results",
+    "projectId": "PRJ017",
+    "assigneeId": "U0042",
+    "reporterId": "U0040",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-06-10",
+    "createdAt": "2026-01-24",
+    "storyPoints": 2,
+    "tags": [
+      "API",
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0186",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ002",
+    "assigneeId": "U0013",
+    "reporterId": "U0048",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-05-21",
+    "createdAt": "2026-04-13",
+    "storyPoints": 5,
+    "tags": [
+      "BI",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0187",
+    "title": "Test ML model performance",
+    "projectId": "PRJ012",
+    "assigneeId": "U0057",
+    "reporterId": "U0031",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-02-21",
+    "createdAt": "2026-01-26",
+    "storyPoints": 8,
+    "tags": [
+      "CRM",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0188",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ016",
+    "assigneeId": "U0148",
+    "reporterId": "U0149",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-06-19",
+    "createdAt": "2026-03-12",
+    "storyPoints": 2,
+    "tags": [
+      "UX",
+      "Compliance",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0189",
+    "title": "Update training materials",
+    "projectId": "PRJ003",
+    "assigneeId": "U0006",
+    "reporterId": "U0028",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-06-12",
+    "createdAt": "2026-02-18",
+    "storyPoints": 2,
+    "tags": [
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0190",
+    "title": "Update API documentation",
+    "projectId": "PRJ007",
+    "assigneeId": "U0099",
+    "reporterId": "U0002",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-04-12",
+    "createdAt": "2026-03-23",
+    "storyPoints": 8,
+    "tags": [
+      "Review",
+      "Data",
+      "Governance",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0191",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ015",
+    "assigneeId": "U0148",
+    "reporterId": "U0139",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-01-01",
+    "createdAt": "2026-04-11",
+    "storyPoints": 2,
+    "tags": [
+      "Sustainability",
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0192",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ006",
+    "assigneeId": "U0039",
+    "reporterId": "U0059",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-02-22",
+    "createdAt": "2026-01-28",
+    "storyPoints": 1,
+    "tags": [
+      "HR",
+      "Migration",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0193",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ007",
+    "assigneeId": "U0100",
+    "reporterId": "U0050",
+    "status": "In Progress",
+    "priority": "Low",
+    "dueDate": "2026-05-16",
+    "createdAt": "2026-04-14",
+    "storyPoints": 1,
+    "tags": [
+      "GDPR",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0194",
+    "title": "Update API documentation",
+    "projectId": "PRJ012",
+    "assigneeId": "U0033",
+    "reporterId": "U0128",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-03-24",
+    "createdAt": "2026-05-13",
+    "storyPoints": 5,
+    "tags": [
+      "GDPR",
+      "Data",
+      "Approved",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0195",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ005",
+    "assigneeId": "U0044",
+    "reporterId": "U0147",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-05-26",
+    "createdAt": "2026-04-13",
+    "storyPoints": 8,
+    "tags": [
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0196",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ006",
+    "assigneeId": "U0052",
+    "reporterId": "U0082",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-27",
+    "createdAt": "2026-05-04",
+    "storyPoints": 5,
+    "tags": [
+      "Review",
+      "ML",
+      "Compliance",
+      "Integration"
+    ]
+  },
+  {
+    "id": "TSK0197",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ006",
+    "assigneeId": "U0075",
+    "reporterId": "U0023",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-01-12",
+    "createdAt": "2026-02-01",
+    "storyPoints": 3,
+    "tags": [
+      "Mobile",
+      "Reporting",
+      "Compliance",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0198",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ007",
+    "assigneeId": "U0120",
+    "reporterId": "U0146",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-05-23",
+    "createdAt": "2026-05-05",
+    "storyPoints": 1,
+    "tags": [
+      "ML",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0199",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ009",
+    "assigneeId": "U0079",
+    "reporterId": "U0057",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-03-03",
+    "createdAt": "2026-02-03",
+    "storyPoints": 1,
+    "tags": [
+      "Staging",
+      "Review",
+      "Production",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0200",
+    "title": "Update training materials",
+    "projectId": "PRJ015",
+    "assigneeId": "U0041",
+    "reporterId": "U0059",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-03-09",
+    "createdAt": "2026-01-17",
+    "storyPoints": 2,
+    "tags": [
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0201",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ001",
+    "assigneeId": "U0101",
+    "reporterId": "U0040",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-02-24",
+    "createdAt": "2026-01-29",
+    "storyPoints": 8,
+    "tags": [
+      "Engineering",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0202",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ018",
+    "assigneeId": "U0109",
+    "reporterId": "U0142",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-02-06",
+    "createdAt": "2026-03-31",
+    "storyPoints": 1,
+    "tags": [
+      "RFC",
+      "SAP",
+      "S/4HANA",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0203",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ020",
+    "assigneeId": "U0078",
+    "reporterId": "U0019",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-02-14",
+    "createdAt": "2026-02-24",
+    "storyPoints": 8,
+    "tags": [
+      "Finance",
+      "Sustainability",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0204",
+    "title": "Conduct security audit",
+    "projectId": "PRJ001",
+    "assigneeId": "U0044",
+    "reporterId": "U0128",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-03-28",
+    "createdAt": "2026-02-06",
+    "storyPoints": 8,
+    "tags": [
+      "Onboarding",
+      "ML",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0205",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ010",
+    "assigneeId": "U0146",
+    "reporterId": "U0028",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-03-07",
+    "createdAt": "2026-03-14",
+    "storyPoints": 8,
+    "tags": [
+      "RFC",
+      "S/4HANA",
+      "Migration"
+    ]
+  },
+  {
+    "id": "TSK0206",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ008",
+    "assigneeId": "U0046",
+    "reporterId": "U0108",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-03-22",
+    "createdAt": "2026-05-09",
+    "storyPoints": 13,
+    "tags": [
+      "GDPR",
+      "Staging",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0207",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ006",
+    "assigneeId": "U0105",
+    "reporterId": "U0100",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-22",
+    "createdAt": "2026-02-22",
+    "storyPoints": 3,
+    "tags": [
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0208",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ006",
+    "assigneeId": "U0106",
+    "reporterId": "U0045",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-15",
+    "createdAt": "2026-02-15",
+    "storyPoints": 3,
+    "tags": [
+      "Review",
+      "S/4HANA",
+      "Draft",
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0209",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ009",
+    "assigneeId": "U0039",
+    "reporterId": "U0015",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-06-25",
+    "createdAt": "2026-03-07",
+    "storyPoints": 3,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0210",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ010",
+    "assigneeId": "U0134",
+    "reporterId": "U0115",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-01-04",
+    "createdAt": "2026-04-23",
+    "storyPoints": 8,
+    "tags": [
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0211",
+    "title": "Code review for release",
+    "projectId": "PRJ013",
+    "assigneeId": "U0109",
+    "reporterId": "U0030",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-05-05",
+    "createdAt": "2026-04-14",
+    "storyPoints": 3,
+    "tags": [
+      "Edge",
+      "Cloud",
+      "Pilot",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0212",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ007",
+    "assigneeId": "U0107",
+    "reporterId": "U0134",
+    "status": "In Progress",
+    "priority": "Low",
+    "dueDate": "2026-02-17",
+    "createdAt": "2026-04-24",
+    "storyPoints": 13,
+    "tags": [
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0213",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ008",
+    "assigneeId": "U0081",
+    "reporterId": "U0142",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-03-05",
+    "createdAt": "2026-01-22",
+    "storyPoints": 5,
+    "tags": [
+      "Reporting",
+      "Pilot",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "TSK0214",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ009",
+    "assigneeId": "U0019",
+    "reporterId": "U0125",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-05-10",
+    "createdAt": "2026-04-06",
+    "storyPoints": 3,
+    "tags": [
+      "UX",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0215",
+    "title": "Update training materials",
+    "projectId": "PRJ010",
+    "assigneeId": "U0032",
+    "reporterId": "U0102",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-03-10",
+    "createdAt": "2026-05-02",
+    "storyPoints": 5,
+    "tags": [
+      "Migration",
+      "API",
+      "Automation",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0216",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ011",
+    "assigneeId": "U0034",
+    "reporterId": "U0052",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-11",
+    "createdAt": "2026-02-25",
+    "storyPoints": 3,
+    "tags": [
+      "Governance",
+      "Staging",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "TSK0217",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ007",
+    "assigneeId": "U0023",
+    "reporterId": "U0020",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-02-04",
+    "createdAt": "2026-01-23",
+    "storyPoints": 2,
+    "tags": [
+      "S/4HANA",
+      "CRM",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0218",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ012",
+    "assigneeId": "U0139",
+    "reporterId": "U0122",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-21",
+    "createdAt": "2026-01-21",
+    "storyPoints": 2,
+    "tags": [
+      "Edge",
+      "Draft",
+      "Onboarding",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0219",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ005",
+    "assigneeId": "U0133",
+    "reporterId": "U0131",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-21",
+    "createdAt": "2026-02-24",
+    "storyPoints": 13,
+    "tags": [
+      "Sustainability",
+      "Data",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0220",
+    "title": "Update training materials",
+    "projectId": "PRJ013",
+    "assigneeId": "U0109",
+    "reporterId": "U0049",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-05-04",
+    "createdAt": "2026-01-31",
+    "storyPoints": 13,
+    "tags": [
+      "S/4HANA",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "TSK0221",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ016",
+    "assigneeId": "U0057",
+    "reporterId": "U0042",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-22",
+    "createdAt": "2026-04-13",
+    "storyPoints": 13,
+    "tags": [
+      "GDPR",
+      "Engineering",
+      "Pilot"
+    ]
+  },
+  {
+    "id": "TSK0222",
+    "title": "Test ML model performance",
+    "projectId": "PRJ013",
+    "assigneeId": "U0143",
+    "reporterId": "U0019",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-21",
+    "createdAt": "2026-04-29",
+    "storyPoints": 13,
+    "tags": [
+      "Quality",
+      "Governance",
+      "Migration",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0223",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ015",
+    "assigneeId": "U0131",
+    "reporterId": "U0113",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-01-25",
+    "createdAt": "2026-03-29",
+    "storyPoints": 5,
+    "tags": [
+      "Integration",
+      "CRM",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0224",
+    "title": "Conduct security audit",
+    "projectId": "PRJ007",
+    "assigneeId": "U0133",
+    "reporterId": "U0058",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-05-16",
+    "createdAt": "2026-03-25",
+    "storyPoints": 8,
+    "tags": [
+      "Finance",
+      "SAP",
+      "Edge",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0225",
+    "title": "Test ML model performance",
+    "projectId": "PRJ005",
+    "assigneeId": "U0104",
+    "reporterId": "U0040",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-01-11",
+    "createdAt": "2026-05-15",
+    "storyPoints": 3,
+    "tags": [
+      "IoT",
+      "Security",
+      "Procurement",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0226",
+    "title": "Update API documentation",
+    "projectId": "PRJ003",
+    "assigneeId": "U0084",
+    "reporterId": "U0065",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-03-28",
+    "createdAt": "2026-05-06",
+    "storyPoints": 1,
+    "tags": [
+      "Edge",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0227",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ016",
+    "assigneeId": "U0124",
+    "reporterId": "U0011",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-03-23",
+    "createdAt": "2026-03-16",
+    "storyPoints": 2,
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0228",
+    "title": "Test ML model performance",
+    "projectId": "PRJ009",
+    "assigneeId": "U0045",
+    "reporterId": "U0004",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-05-22",
+    "createdAt": "2026-04-03",
+    "storyPoints": 5,
+    "tags": [
+      "Engineering",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0229",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ010",
+    "assigneeId": "U0063",
+    "reporterId": "U0027",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-01-24",
+    "createdAt": "2026-02-09",
+    "storyPoints": 1,
+    "tags": [
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0230",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ012",
+    "assigneeId": "U0091",
+    "reporterId": "U0062",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-02-01",
+    "createdAt": "2026-05-08",
+    "storyPoints": 8,
+    "tags": [
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0231",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ019",
+    "assigneeId": "U0118",
+    "reporterId": "U0065",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-01-27",
+    "createdAt": "2026-03-09",
+    "storyPoints": 5,
+    "tags": [
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "TSK0232",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ019",
+    "assigneeId": "U0009",
+    "reporterId": "U0022",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-04-09",
+    "createdAt": "2026-03-02",
+    "storyPoints": 2,
+    "tags": [
+      "Security",
+      "S/4HANA",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0233",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ013",
+    "assigneeId": "U0036",
+    "reporterId": "U0004",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-06-02",
+    "createdAt": "2026-05-11",
+    "storyPoints": 13,
+    "tags": [
+      "UX",
+      "Engineering",
+      "Migration",
+      "HR"
+    ]
+  },
+  {
+    "id": "TSK0234",
+    "title": "Write unit tests",
+    "projectId": "PRJ007",
+    "assigneeId": "U0024",
+    "reporterId": "U0033",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-05-27",
+    "createdAt": "2026-03-24",
+    "storyPoints": 2,
+    "tags": [
+      "Engineering"
+    ]
+  },
+  {
+    "id": "TSK0235",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ016",
+    "assigneeId": "U0018",
+    "reporterId": "U0047",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-06-18",
+    "createdAt": "2026-02-01",
+    "storyPoints": 3,
+    "tags": [
+      "Procurement",
+      "Engineering",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0236",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ008",
+    "assigneeId": "U0095",
+    "reporterId": "U0002",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-05-17",
+    "createdAt": "2026-02-23",
+    "storyPoints": 5,
+    "tags": [
+      "Procurement"
+    ]
+  },
+  {
+    "id": "TSK0237",
+    "title": "Code review for release",
+    "projectId": "PRJ006",
+    "assigneeId": "U0116",
+    "reporterId": "U0074",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-05-12",
+    "createdAt": "2026-04-14",
+    "storyPoints": 5,
+    "tags": [
+      "Migration",
+      "GDPR",
+      "BI",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0238",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ015",
+    "assigneeId": "U0013",
+    "reporterId": "U0048",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-06-12",
+    "createdAt": "2026-04-20",
+    "storyPoints": 2,
+    "tags": [
+      "Reporting",
+      "HR",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0239",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ017",
+    "assigneeId": "U0039",
+    "reporterId": "U0096",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-05-21",
+    "createdAt": "2026-03-11",
+    "storyPoints": 8,
+    "tags": [
+      "Mobile",
+      "BI",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0240",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ005",
+    "assigneeId": "U0116",
+    "reporterId": "U0102",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-05-20",
+    "createdAt": "2026-04-06",
+    "storyPoints": 2,
+    "tags": [
+      "Review",
+      "IoT",
+      "Production"
+    ]
+  },
+  {
+    "id": "TSK0241",
+    "title": "Optimize SQL queries",
+    "projectId": "PRJ012",
+    "assigneeId": "U0074",
+    "reporterId": "U0117",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-03-23",
+    "createdAt": "2026-03-27",
+    "storyPoints": 5,
+    "tags": [
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0242",
+    "title": "Test ML model performance",
+    "projectId": "PRJ018",
+    "assigneeId": "U0029",
+    "reporterId": "U0049",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-04-19",
+    "createdAt": "2026-03-21",
+    "storyPoints": 5,
+    "tags": [
+      "Governance",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0243",
+    "title": "Review integration test results",
+    "projectId": "PRJ012",
+    "assigneeId": "U0070",
+    "reporterId": "U0056",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-06-20",
+    "createdAt": "2026-05-12",
+    "storyPoints": 2,
+    "tags": [
+      "Pilot",
+      "Finance",
+      "Sustainability",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0244",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ013",
+    "assigneeId": "U0011",
+    "reporterId": "U0066",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-06-25",
+    "createdAt": "2026-04-15",
+    "storyPoints": 3,
+    "tags": [
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0245",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ015",
+    "assigneeId": "U0054",
+    "reporterId": "U0147",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-02-24",
+    "createdAt": "2026-05-08",
+    "storyPoints": 8,
+    "tags": [
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0246",
+    "title": "Write unit tests",
+    "projectId": "PRJ011",
+    "assigneeId": "U0074",
+    "reporterId": "U0087",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-03-14",
+    "createdAt": "2026-05-11",
+    "storyPoints": 13,
+    "tags": [
+      "RFC",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0247",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ018",
+    "assigneeId": "U0056",
+    "reporterId": "U0121",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-04-12",
+    "createdAt": "2026-01-25",
+    "storyPoints": 3,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0248",
+    "title": "Code review for release",
+    "projectId": "PRJ001",
+    "assigneeId": "U0083",
+    "reporterId": "U0093",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-05-13",
+    "createdAt": "2026-03-25",
+    "storyPoints": 8,
+    "tags": [
+      "Testing",
+      "ML",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0249",
+    "title": "Update SOX controls documentation",
+    "projectId": "PRJ012",
+    "assigneeId": "U0035",
+    "reporterId": "U0059",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-06-20",
+    "createdAt": "2026-03-29",
+    "storyPoints": 5,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0250",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ001",
+    "assigneeId": "U0150",
+    "reporterId": "U0045",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-01-17",
+    "createdAt": "2026-04-25",
+    "storyPoints": 2,
+    "tags": [
+      "CRM",
+      "Approved",
+      "ML",
+      "Governance"
+    ]
+  },
+  {
+    "id": "TSK0251",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ001",
+    "assigneeId": "U0126",
+    "reporterId": "U0010",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-05-09",
+    "createdAt": "2026-05-03",
+    "storyPoints": 8,
+    "tags": [
+      "Procurement",
+      "Quality",
+      "Staging",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0252",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ009",
+    "assigneeId": "U0137",
+    "reporterId": "U0029",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-01-26",
+    "createdAt": "2026-03-01",
+    "storyPoints": 8,
+    "tags": [
+      "Edge",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0253",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ012",
+    "assigneeId": "U0109",
+    "reporterId": "U0040",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-05-21",
+    "createdAt": "2026-04-10",
+    "storyPoints": 3,
+    "tags": [
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0254",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ015",
+    "assigneeId": "U0038",
+    "reporterId": "U0054",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-04-02",
+    "createdAt": "2026-03-11",
+    "storyPoints": 8,
+    "tags": [
+      "Integration",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0255",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ018",
+    "assigneeId": "U0057",
+    "reporterId": "U0131",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-01-21",
+    "createdAt": "2026-04-19",
+    "storyPoints": 3,
+    "tags": [
+      "Migration",
+      "Testing",
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0256",
+    "title": "Update API documentation",
+    "projectId": "PRJ018",
+    "assigneeId": "U0020",
+    "reporterId": "U0114",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-01-15",
+    "createdAt": "2026-02-08",
+    "storyPoints": 8,
+    "tags": [
+      "Governance",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0257",
+    "title": "Review integration test results",
+    "projectId": "PRJ007",
+    "assigneeId": "U0072",
+    "reporterId": "U0112",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-02-02",
+    "createdAt": "2026-03-25",
+    "storyPoints": 13,
+    "tags": [
+      "Onboarding",
+      "Procurement",
+      "Production",
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0258",
+    "title": "Deploy to staging environment",
+    "projectId": "PRJ017",
+    "assigneeId": "U0096",
+    "reporterId": "U0053",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-03-03",
+    "createdAt": "2026-04-14",
+    "storyPoints": 13,
+    "tags": [
+      "Analytics",
+      "Security",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0259",
+    "title": "Test ML model performance",
+    "projectId": "PRJ004",
+    "assigneeId": "U0126",
+    "reporterId": "U0149",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-04-03",
+    "createdAt": "2026-01-23",
+    "storyPoints": 2,
+    "tags": [
+      "Draft",
+      "UX",
+      "CRM"
+    ]
+  },
+  {
+    "id": "TSK0260",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ005",
+    "assigneeId": "U0047",
+    "reporterId": "U0076",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-05-25",
+    "createdAt": "2026-01-23",
+    "storyPoints": 5,
+    "tags": [
+      "Migration",
+      "Reporting",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0261",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ001",
+    "assigneeId": "U0010",
+    "reporterId": "U0106",
+    "status": "Cancelled",
+    "priority": "Medium",
+    "dueDate": "2026-01-08",
+    "createdAt": "2026-03-27",
+    "storyPoints": 1,
+    "tags": [
+      "Automation",
+      "Production",
+      "ML"
+    ]
+  },
+  {
+    "id": "TSK0262",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ002",
+    "assigneeId": "U0106",
+    "reporterId": "U0053",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-04-12",
+    "createdAt": "2026-02-13",
+    "storyPoints": 13,
+    "tags": [
+      "Testing",
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0263",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ020",
+    "assigneeId": "U0079",
+    "reporterId": "U0037",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-05-07",
+    "createdAt": "2026-05-07",
+    "storyPoints": 13,
+    "tags": [
+      "Onboarding",
+      "Compliance",
+      "Reporting"
+    ]
+  },
+  {
+    "id": "TSK0264",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ014",
+    "assigneeId": "U0086",
+    "reporterId": "U0054",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-02-20",
+    "createdAt": "2026-01-25",
+    "storyPoints": 13,
+    "tags": [
+      "SAP",
+      "HR",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0265",
+    "title": "Prepare budget forecast",
+    "projectId": "PRJ008",
+    "assigneeId": "U0120",
+    "reporterId": "U0140",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-06-17",
+    "createdAt": "2026-04-25",
+    "storyPoints": 13,
+    "tags": [
+      "Analytics",
+      "Review",
+      "SAP",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0266",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ017",
+    "assigneeId": "U0034",
+    "reporterId": "U0082",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-06-19",
+    "createdAt": "2026-02-18",
+    "storyPoints": 5,
+    "tags": [
+      "Quality",
+      "BI",
+      "Review"
+    ]
+  },
+  {
+    "id": "TSK0267",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ015",
+    "assigneeId": "U0133",
+    "reporterId": "U0019",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-03-16",
+    "createdAt": "2026-03-24",
+    "storyPoints": 2,
+    "tags": [
+      "API",
+      "Onboarding",
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0268",
+    "title": "Conduct security audit",
+    "projectId": "PRJ011",
+    "assigneeId": "U0133",
+    "reporterId": "U0068",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-03-24",
+    "createdAt": "2026-03-13",
+    "storyPoints": 5,
+    "tags": [
+      "Testing",
+      "BI"
+    ]
+  },
+  {
+    "id": "TSK0269",
+    "title": "Test ML model performance",
+    "projectId": "PRJ020",
+    "assigneeId": "U0067",
+    "reporterId": "U0138",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-01-27",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0270",
+    "title": "Conduct security audit",
+    "projectId": "PRJ009",
+    "assigneeId": "U0098",
+    "reporterId": "U0020",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-02-22",
+    "createdAt": "2026-01-23",
+    "storyPoints": 8,
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0271",
+    "title": "Configure monitoring alerts",
+    "projectId": "PRJ009",
+    "assigneeId": "U0042",
+    "reporterId": "U0109",
+    "status": "Done",
+    "priority": "Critical",
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-03-28",
+    "storyPoints": 2,
+    "tags": [
+      "GDPR",
+      "Reporting",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0272",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ019",
+    "assigneeId": "U0082",
+    "reporterId": "U0145",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-03-10",
+    "createdAt": "2026-01-17",
+    "storyPoints": 13,
+    "tags": [
+      "Cloud",
+      "Draft",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "TSK0273",
+    "title": "Update API documentation",
+    "projectId": "PRJ005",
+    "assigneeId": "U0045",
+    "reporterId": "U0068",
+    "status": "In Progress",
+    "priority": "Low",
+    "dueDate": "2026-02-24",
+    "createdAt": "2026-02-10",
+    "storyPoints": 13,
+    "tags": [
+      "Review",
+      "Sustainability",
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0274",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ016",
+    "assigneeId": "U0139",
+    "reporterId": "U0088",
+    "status": "Cancelled",
+    "priority": "High",
+    "dueDate": "2026-02-12",
+    "createdAt": "2026-04-15",
+    "storyPoints": 3,
+    "tags": [
+      "Finance",
+      "SAP",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0275",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ009",
+    "assigneeId": "U0061",
+    "reporterId": "U0066",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-05-09",
+    "createdAt": "2026-02-05",
+    "storyPoints": 13,
+    "tags": [
+      "Migration",
+      "Sustainability",
+      "ML",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0276",
+    "title": "Roll out new onboarding flow",
+    "projectId": "PRJ015",
+    "assigneeId": "U0145",
+    "reporterId": "U0124",
+    "status": "Blocked",
+    "priority": "Low",
+    "dueDate": "2026-04-13",
+    "createdAt": "2026-04-29",
+    "storyPoints": 1,
+    "tags": [
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0277",
+    "title": "Analyze user feedback",
+    "projectId": "PRJ005",
+    "assigneeId": "U0019",
+    "reporterId": "U0045",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-03-03",
+    "createdAt": "2026-02-25",
+    "storyPoints": 5,
+    "tags": [
+      "Integration",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0278",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ008",
+    "assigneeId": "U0095",
+    "reporterId": "U0096",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-03-22",
+    "createdAt": "2026-02-10",
+    "storyPoints": 1,
+    "tags": [
+      "Cloud",
+      "UX"
+    ]
+  },
+  {
+    "id": "TSK0279",
+    "title": "Write unit tests",
+    "projectId": "PRJ002",
+    "assigneeId": "U0092",
+    "reporterId": "U0045",
+    "status": "Done",
+    "priority": "Medium",
+    "dueDate": "2026-04-05",
+    "createdAt": "2026-01-29",
+    "storyPoints": 1,
+    "tags": [
+      "Quality"
+    ]
+  },
+  {
+    "id": "TSK0280",
+    "title": "Conduct security audit",
+    "projectId": "PRJ014",
+    "assigneeId": "U0108",
+    "reporterId": "U0136",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-05-22",
+    "createdAt": "2026-04-27",
+    "storyPoints": 8,
+    "tags": [
+      "Edge",
+      "Staging",
+      "Testing",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0281",
+    "title": "Update API documentation",
+    "projectId": "PRJ018",
+    "assigneeId": "U0005",
+    "reporterId": "U0117",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-01-21",
+    "createdAt": "2026-01-26",
+    "storyPoints": 8,
+    "tags": [
+      "Security",
+      "SAP"
+    ]
+  },
+  {
+    "id": "TSK0282",
+    "title": "Update API documentation",
+    "projectId": "PRJ013",
+    "assigneeId": "U0050",
+    "reporterId": "U0100",
+    "status": "Done",
+    "priority": "Low",
+    "dueDate": "2026-01-20",
+    "createdAt": "2026-03-01",
+    "storyPoints": 3,
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "TSK0283",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ003",
+    "assigneeId": "U0076",
+    "reporterId": "U0018",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-01-23",
+    "createdAt": "2026-04-15",
+    "storyPoints": 1,
+    "tags": [
+      "Cloud"
+    ]
+  },
+  {
+    "id": "TSK0284",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ019",
+    "assigneeId": "U0061",
+    "reporterId": "U0101",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-04-09",
+    "createdAt": "2026-05-15",
+    "storyPoints": 5,
+    "tags": [
+      "RFC",
+      "IoT"
+    ]
+  },
+  {
+    "id": "TSK0285",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ012",
+    "assigneeId": "U0008",
+    "reporterId": "U0031",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-03-02",
+    "createdAt": "2026-04-23",
+    "storyPoints": 1,
+    "tags": [
+      "Draft",
+      "S/4HANA",
+      "Automation"
+    ]
+  },
+  {
+    "id": "TSK0286",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ020",
+    "assigneeId": "U0139",
+    "reporterId": "U0114",
+    "status": "Done",
+    "priority": "High",
+    "dueDate": "2026-01-24",
+    "createdAt": "2026-04-28",
+    "storyPoints": 1,
+    "tags": [
+      "Sustainability",
+      "Onboarding",
+      "Reporting",
+      "Staging"
+    ]
+  },
+  {
+    "id": "TSK0287",
+    "title": "Test ML model performance",
+    "projectId": "PRJ014",
+    "assigneeId": "U0049",
+    "reporterId": "U0040",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-01-17",
+    "createdAt": "2026-03-09",
+    "storyPoints": 2,
+    "tags": [
+      "Staging",
+      "API",
+      "SAP",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0288",
+    "title": "Code review for release",
+    "projectId": "PRJ013",
+    "assigneeId": "U0094",
+    "reporterId": "U0098",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-03-03",
+    "createdAt": "2026-03-23",
+    "storyPoints": 2,
+    "tags": [
+      "Automation",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "TSK0289",
+    "title": "Update KPI dashboards",
+    "projectId": "PRJ002",
+    "assigneeId": "U0017",
+    "reporterId": "U0099",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-04-05",
+    "createdAt": "2026-03-27",
+    "storyPoints": 3,
+    "tags": [
+      "Draft",
+      "Compliance",
+      "RFC"
+    ]
+  },
+  {
+    "id": "TSK0290",
+    "title": "Prepare stakeholder presentation",
+    "projectId": "PRJ003",
+    "assigneeId": "U0060",
+    "reporterId": "U0146",
+    "status": "In Progress",
+    "priority": "Critical",
+    "dueDate": "2026-01-06",
+    "createdAt": "2026-03-18",
+    "storyPoints": 3,
+    "tags": [
+      "Integration",
+      "Procurement",
+      "GDPR"
+    ]
+  },
+  {
+    "id": "TSK0291",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ003",
+    "assigneeId": "U0130",
+    "reporterId": "U0053",
+    "status": "Open",
+    "priority": "High",
+    "dueDate": "2026-05-18",
+    "createdAt": "2026-03-23",
+    "storyPoints": 8,
+    "tags": [
+      "Draft",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0292",
+    "title": "Update GDPR compliance docs",
+    "projectId": "PRJ012",
+    "assigneeId": "U0056",
+    "reporterId": "U0131",
+    "status": "Open",
+    "priority": "Low",
+    "dueDate": "2026-06-10",
+    "createdAt": "2026-04-14",
+    "storyPoints": 13,
+    "tags": [
+      "IoT",
+      "Draft",
+      "Pilot",
+      "Testing"
+    ]
+  },
+  {
+    "id": "TSK0293",
+    "title": "Review and approve design specs",
+    "projectId": "PRJ006",
+    "assigneeId": "U0049",
+    "reporterId": "U0056",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-01-09",
+    "createdAt": "2026-02-10",
+    "storyPoints": 8,
+    "tags": [
+      "Quality",
+      "Automation",
+      "Draft"
+    ]
+  },
+  {
+    "id": "TSK0294",
+    "title": "Prepare quarterly report",
+    "projectId": "PRJ001",
+    "assigneeId": "U0025",
+    "reporterId": "U0113",
+    "status": "Open",
+    "priority": "Medium",
+    "dueDate": "2026-02-04",
+    "createdAt": "2026-04-29",
+    "storyPoints": 8,
+    "tags": [
+      "HR",
+      "S/4HANA"
+    ]
+  },
+  {
+    "id": "TSK0295",
+    "title": "Review integration test results",
+    "projectId": "PRJ012",
+    "assigneeId": "U0016",
+    "reporterId": "U0021",
+    "status": "Open",
+    "priority": "Critical",
+    "dueDate": "2026-06-10",
+    "createdAt": "2026-04-01",
+    "storyPoints": 13,
+    "tags": [
+      "Approved",
+      "API",
+      "HR",
+      "Edge"
+    ]
+  },
+  {
+    "id": "TSK0296",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ007",
+    "assigneeId": "U0055",
+    "reporterId": "U0047",
+    "status": "Cancelled",
+    "priority": "Critical",
+    "dueDate": "2026-01-01",
+    "createdAt": "2026-04-16",
+    "storyPoints": 13,
+    "tags": [
+      "Procurement",
+      "CRM",
+      "API"
+    ]
+  },
+  {
+    "id": "TSK0297",
+    "title": "Migrate data to cloud storage",
+    "projectId": "PRJ002",
+    "assigneeId": "U0096",
+    "reporterId": "U0142",
+    "status": "Cancelled",
+    "priority": "Low",
+    "dueDate": "2026-04-16",
+    "createdAt": "2026-01-16",
+    "storyPoints": 1,
+    "tags": [
+      "Pilot",
+      "Onboarding",
+      "S/4HANA",
+      "Data"
+    ]
+  },
+  {
+    "id": "TSK0298",
+    "title": "Test ML model performance",
+    "projectId": "PRJ004",
+    "assigneeId": "U0021",
+    "reporterId": "U0120",
+    "status": "Blocked",
+    "priority": "Medium",
+    "dueDate": "2026-02-04",
+    "createdAt": "2026-05-14",
+    "storyPoints": 8,
+    "tags": [
+      "Analytics"
+    ]
+  },
+  {
+    "id": "TSK0299",
+    "title": "Review vendor contracts",
+    "projectId": "PRJ007",
+    "assigneeId": "U0034",
+    "reporterId": "U0104",
+    "status": "Blocked",
+    "priority": "High",
+    "dueDate": "2026-02-13",
+    "createdAt": "2026-02-22",
+    "storyPoints": 5,
+    "tags": [
+      "Review",
+      "Production",
+      "Integration",
+      "Approved"
+    ]
+  },
+  {
+    "id": "TSK0300",
+    "title": "Write unit tests",
+    "projectId": "PRJ001",
+    "assigneeId": "U0074",
+    "reporterId": "U0136",
+    "status": "Blocked",
+    "priority": "Critical",
+    "dueDate": "2026-02-25",
+    "createdAt": "2026-01-19",
+    "storyPoints": 8,
+    "tags": [
+      "IoT",
+      "Security",
+      "Staging",
+      "Migration"
+    ]
+  }
+]

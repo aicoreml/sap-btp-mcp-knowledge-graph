@@ -1,0 +1,58 @@
+[
+  {
+    "id": "D001",
+    "name": "Finance",
+    "color": "#1e40af",
+    "location": "Frankfurt",
+    "costCenter": "CC-FIN"
+  },
+  {
+    "id": "D002",
+    "name": "Engineering",
+    "color": "#065f46",
+    "location": "Berlin",
+    "costCenter": "CC-ENG"
+  },
+  {
+    "id": "D003",
+    "name": "Sales",
+    "color": "#7c2d12",
+    "location": "Munich",
+    "costCenter": "CC-SLS"
+  },
+  {
+    "id": "D004",
+    "name": "HR",
+    "color": "#581c87",
+    "location": "Hamburg",
+    "costCenter": "CC-HR"
+  },
+  {
+    "id": "D005",
+    "name": "Operations",
+    "color": "#1e3a5f",
+    "location": "Stuttgart",
+    "costCenter": "CC-OPS"
+  },
+  {
+    "id": "D006",
+    "name": "Legal",
+    "color": "#4a1d1d",
+    "location": "Düsseldorf",
+    "costCenter": "CC-LEG"
+  },
+  {
+    "id": "D007",
+    "name": "Marketing",
+    "color": "#134e4a",
+    "location": "Cologne",
+    "costCenter": "CC-MKT"
+  },
+  {
+    "id": "D008",
+    "name": "IT",
+    "color": "#1e293b",
+    "location": "Zurich",
+    "costCenter": "CC-IT"
+  }
+]

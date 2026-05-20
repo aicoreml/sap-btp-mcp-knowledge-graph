@@ -1,0 +1,578 @@
+[
+  {
+    "id": "PRJ001",
+    "name": "SAP S/4HANA Migration",
+    "departmentId": "D007",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0079",
+    "status": "Active",
+    "budget": 298000,
+    "spent": 104300,
+    "startDate": "2025-09-01",
+    "endDate": "2025-02-10",
+    "priority": "Low",
+    "tags": [
+      "Cloud",
+      "GDPR",
+      "Testing",
+      "Draft",
+      "Engineering"
+    ],
+    "teamMembers": [
+      "U0104",
+      "U0043",
+      "U0126",
+      "U0029",
+      "U0086",
+      "U0069",
+      "U0038",
+      "U0032",
+      "U0011",
+      "U0016"
+    ]
+  },
+  {
+    "id": "PRJ002",
+    "name": "Cloud Infrastructure Upgrade",
+    "departmentId": "D007",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0021",
+    "status": "Active",
+    "budget": 282000,
+    "spent": 149460,
+    "startDate": "2025-04-15",
+    "endDate": "2026-07-06",
+    "priority": "High",
+    "tags": [
+      "CRM",
+      "Migration",
+      "Integration",
+      "Mobile",
+      "Approved",
+      "ML"
+    ],
+    "teamMembers": [
+      "U0020",
+      "U0006",
+      "U0059",
+      "U0095",
+      "U0036"
+    ]
+  },
+  {
+    "id": "PRJ003",
+    "name": "Data Governance Initiative",
+    "departmentId": "D008",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0055",
+    "status": "Active",
+    "budget": 476000,
+    "spent": 185640,
+    "startDate": "2025-04-15",
+    "endDate": "2025-01-01",
+    "priority": "Low",
+    "tags": [
+      "Quality",
+      "Sustainability",
+      "Staging"
+    ],
+    "teamMembers": [
+      "U0065",
+      "U0119",
+      "U0058",
+      "U0056",
+      "U0001",
+      "U0009",
+      "U0012",
+      "U0020",
+      "U0082"
+    ]
+  },
+  {
+    "id": "PRJ004",
+    "name": "Customer Portal Redesign",
+    "departmentId": "D001",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0040",
+    "status": "Active",
+    "budget": 389000,
+    "spent": 291750,
+    "startDate": "2025-04-15",
+    "endDate": "2025-05-16",
+    "priority": "Medium",
+    "tags": [
+      "Analytics",
+      "API",
+      "Review",
+      "Approved"
+    ],
+    "teamMembers": [
+      "U0075",
+      "U0111",
+      "U0078",
+      "U0117",
+      "U0133",
+      "U0119",
+      "U0085",
+      "U0094"
+    ]
+  },
+  {
+    "id": "PRJ005",
+    "name": "GDPR Compliance Automation",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0040",
+    "status": "Active",
+    "budget": 370000,
+    "spent": 129500,
+    "startDate": "2025-04-15",
+    "endDate": "2025-02-22",
+    "priority": "High",
+    "tags": [
+      "UX",
+      "BI",
+      "Data",
+      "Mobile"
+    ],
+    "teamMembers": [
+      "U0056",
+      "U0105",
+      "U0045",
+      "U0032",
+      "U0106",
+      "U0119",
+      "U0112",
+      "U0068",
+      "U0099"
+    ]
+  },
+  {
+    "id": "PRJ006",
+    "name": "ML-based Demand Forecasting",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0073",
+    "status": "Active",
+    "budget": 428000,
+    "spent": 94160,
+    "startDate": "2025-07-15",
+    "endDate": "2025-03-05",
+    "priority": "Critical",
+    "tags": [
+      "API",
+      "Staging",
+      "Governance",
+      "Engineering",
+      "IoT"
+    ],
+    "teamMembers": [
+      "U0066",
+      "U0124",
+      "U0005",
+      "U0034",
+      "U0041"
+    ]
+  },
+  {
+    "id": "PRJ007",
+    "name": "Vendor Management System",
+    "departmentId": "D007",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0059",
+    "status": "Active",
+    "budget": 491000,
+    "spent": 162030,
+    "startDate": "2025-04-15",
+    "endDate": "2026-07-06",
+    "priority": "Low",
+    "tags": [
+      "Quality",
+      "RFC",
+      "Engineering",
+      "SAP",
+      "UX",
+      "Automation",
+      "Data"
+    ],
+    "teamMembers": [
+      "U0050",
+      "U0079",
+      "U0110",
+      "U0130",
+      "U0035",
+      "U0109",
+      "U0136",
+      "U0148",
+      "U0107",
+      "U0058"
+    ]
+  },
+  {
+    "id": "PRJ008",
+    "name": "Employee Onboarding Portal",
+    "departmentId": "D008",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0024",
+    "status": "Active",
+    "budget": 60000,
+    "spent": 40800,
+    "startDate": "2025-06-01",
+    "endDate": "2026-06-13",
+    "priority": "High",
+    "tags": [
+      "API",
+      "Cloud",
+      "Automation"
+    ],
+    "teamMembers": [
+      "U0030",
+      "U0079",
+      "U0071",
+      "U0123",
+      "U0112"
+    ]
+  },
+  {
+    "id": "PRJ009",
+    "name": "Financial Reporting Redesign",
+    "departmentId": "D001",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0047",
+    "status": "Active",
+    "budget": 251000,
+    "spent": 50200,
+    "startDate": "2025-09-01",
+    "endDate": "2025-03-26",
+    "priority": "Critical",
+    "tags": [
+      "Sustainability",
+      "Cloud",
+      "IoT",
+      "Mobile",
+      "Automation",
+      "RFC"
+    ],
+    "teamMembers": [
+      "U0109",
+      "U0019",
+      "U0068",
+      "U0085"
+    ]
+  },
+  {
+    "id": "PRJ010",
+    "name": "Supply Chain Analytics",
+    "departmentId": "D001",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0025",
+    "status": "Active",
+    "budget": 397000,
+    "spent": 194530,
+    "startDate": "2025-07-15",
+    "endDate": "2025-08-20",
+    "priority": "High",
+    "tags": [
+      "Review",
+      "Mobile",
+      "Onboarding",
+      "IoT",
+      "Compliance"
+    ],
+    "teamMembers": [
+      "U0118",
+      "U0130",
+      "U0150",
+      "U0098",
+      "U0091",
+      "U0062",
+      "U0033"
+    ]
+  },
+  {
+    "id": "PRJ011",
+    "name": "IoT Sensor Network",
+    "departmentId": "D007",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0062",
+    "status": "Active",
+    "budget": 137000,
+    "spent": 98640,
+    "startDate": "2025-06-01",
+    "endDate": "2026-11-02",
+    "priority": "High",
+    "tags": [
+      "Integration",
+      "Security",
+      "Governance",
+      "Data",
+      "Onboarding",
+      "Draft"
+    ],
+    "teamMembers": [
+      "U0038",
+      "U0006",
+      "U0052",
+      "U0136",
+      "U0146",
+      "U0030",
+      "U0060"
+    ]
+  },
+  {
+    "id": "PRJ012",
+    "name": "Mobile Workforce App",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0068",
+    "status": "Active",
+    "budget": 477000,
+    "spent": 176490,
+    "startDate": "2025-04-15",
+    "endDate": "2025-06-27",
+    "priority": "Low",
+    "tags": [
+      "Compliance",
+      "Analytics",
+      "Engineering",
+      "Onboarding",
+      "Migration"
+    ],
+    "teamMembers": [
+      "U0027",
+      "U0034",
+      "U0064",
+      "U0046"
+    ]
+  },
+  {
+    "id": "PRJ013",
+    "name": "API Integration Hub",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0030",
+    "status": "Active",
+    "budget": 340000,
+    "spent": 153000,
+    "startDate": "2025-01-15",
+    "endDate": "2026-06-05",
+    "priority": "Low",
+    "tags": [
+      "Automation",
+      "Security",
+      "API",
+      "Integration",
+      "Edge",
+      "Finance"
+    ],
+    "teamMembers": [
+      "U0070",
+      "U0111",
+      "U0095",
+      "U0021",
+      "U0107",
+      "U0034"
+    ]
+  },
+  {
+    "id": "PRJ014",
+    "name": "Security Audit 2026",
+    "departmentId": "D004",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0058",
+    "status": "Active",
+    "budget": 50000,
+    "spent": 12000,
+    "startDate": "2025-03-01",
+    "endDate": "2025-10-02",
+    "priority": "Critical",
+    "tags": [
+      "SAP",
+      "Finance",
+      "API",
+      "Onboarding",
+      "Automation",
+      "Pilot"
+    ],
+    "teamMembers": [
+      "U0036",
+      "U0067",
+      "U0147",
+      "U0001",
+      "U0064",
+      "U0049",
+      "U0107"
+    ]
+  },
+  {
+    "id": "PRJ015",
+    "name": "Sustainability Reporting",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0026",
+    "status": "Active",
+    "budget": 441000,
+    "spent": 233730,
+    "startDate": "2025-03-01",
+    "endDate": "2025-04-09",
+    "priority": "Critical",
+    "tags": [
+      "RFC",
+      "Approved",
+      "Procurement"
+    ],
+    "teamMembers": [
+      "U0042",
+      "U0069",
+      "U0051",
+      "U0052"
+    ]
+  },
+  {
+    "id": "PRJ016",
+    "name": "CRM Consolidation",
+    "departmentId": "D006",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0063",
+    "status": "Active",
+    "budget": 297000,
+    "spent": 207900,
+    "startDate": "2025-09-01",
+    "endDate": "2026-09-02",
+    "priority": "High",
+    "tags": [
+      "Quality",
+      "Edge",
+      "RFC",
+      "Finance",
+      "Reporting"
+    ],
+    "teamMembers": [
+      "U0126",
+      "U0069",
+      "U0048",
+      "U0078",
+      "U0122",
+      "U0147",
+      "U0127",
+      "U0123",
+      "U0038",
+      "U0015"
+    ]
+  },
+  {
+    "id": "PRJ017",
+    "name": "E-Procurement Rollout",
+    "departmentId": "D008",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0016",
+    "status": "At Risk",
+    "budget": 325000,
+    "spent": 240500,
+    "startDate": "2025-01-15",
+    "endDate": "2025-08-06",
+    "priority": "Medium",
+    "tags": [
+      "CRM",
+      "Cloud",
+      "API",
+      "Approved",
+      "Testing"
+    ],
+    "teamMembers": [
+      "U0046",
+      "U0082",
+      "U0095",
+      "U0139",
+      "U0149",
+      "U0127",
+      "U0043",
+      "U0143",
+      "U0072",
+      "U0074"
+    ]
+  },
+  {
+    "id": "PRJ018",
+    "name": "BI Self-Service Rollout",
+    "departmentId": "D002",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0045",
+    "status": "At Risk",
+    "budget": 188000,
+    "spent": 69560,
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-04",
+    "priority": "Medium",
+    "tags": [
+      "Cloud",
+      "Reporting",
+      "GDPR"
+    ],
+    "teamMembers": [
+      "U0131",
+      "U0118",
+      "U0062",
+      "U0041",
+      "U0049",
+      "U0094"
+    ]
+  },
+  {
+    "id": "PRJ019",
+    "name": "Digital Twin Pilot",
+    "departmentId": "D004",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0057",
+    "status": "On Hold",
+    "budget": 415000,
+    "spent": 327850,
+    "startDate": "2025-03-01",
+    "endDate": "2026-10-25",
+    "priority": "High",
+    "tags": [
+      "Compliance",
+      "S/4HANA",
+      "Onboarding",
+      "Production"
+    ],
+    "teamMembers": [
+      "U0049",
+      "U0054",
+      "U0079",
+      "U0050",
+      "U0027",
+      "U0039",
+      "U0111",
+      "U0075",
+      "U0017",
+      "U0033"
+    ]
+  },
+  {
+    "id": "PRJ020",
+    "name": "Edge Computing PoC",
+    "departmentId": "D008",
+    "sponsorId": "U0015",
+    "projectManagerId": "U0034",
+    "status": "Completed",
+    "budget": 63000,
+    "spent": 18270,
+    "startDate": "2025-06-01",
+    "endDate": "2025-12-14",
+    "priority": "High",
+    "tags": [
+      "BI",
+      "Reporting",
+      "HR"
+    ],
+    "teamMembers": [
+      "U0082",
+      "U0071",
+      "U0058",
+      "U0079",
+      "U0059",
+      "U0088"
+    ]
+  }
+]
